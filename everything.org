@@ -1,0 +1,1792 @@
+#+TITLE: School Work 
+#+OPTIONS: toc:nil num:nil 
+#+LATEX_HEADER: \usepackage{stackengine}
+#+LATEX_HEADER: \usepackage{pdflscape}
+#+LATEX_HEADER: \usepackage[version=4]{mhchem}
+#+LATEX_HEADER: \usepackage{rotating}
+#+LATEX_HEADER: \usepackage{chemfig}
+#+LATEX_HEADER: \usepackage{expl3}
+#+LATEX_HEADER: \usepackage{chemfig}
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+LATEX_HEADER: \usepackage{amsmath}
+#+LATEX_HEADER: \usepackage{calc}
+#+LATEX_HEADER: \usepackage{cite}
+#+LATEX_HEADER: \usepackage{bohr}
+#+LATEX_HEADER: \usepackage{tikz}
+#+LATEX_HEADER: \usepackage{siunitx}
+#+LATEX_HEADER: \usepackage{pgfplots}
+#+LATEX_HEADER: \usepackage{booktabs}
+#+LATEX_HEADER: \usepackage{tkz-euclide}
+#+LATEX_HEADER: \usetkzobj{all}
+#+SETUPFILE: theme-bigblow.setup
+
+* Timetable
+
+  |--------+------+-----------+------+-----------|
+  | Period | Room | Day 1     | Room | Day 2     |
+  |--------+------+-----------+------+-----------|
+  |      1 |  122 | TGP3M1-01 |  305 | SPH3U1-01 |
+  |      2 |  305 | SPH3U1-01 |  122 | TGP3M1-01 |
+  |      3 |  308 | SCH3U1-01 |  322 | ENG3U1-02 |
+  |      4 |  322 | ENG3U1-02 |  308 | SCH3U1-01 |
+  |--------+------+-----------+------+-----------|
+
+* School
+** Photography
+*** Safety
+**** How you can get poisoned
+
+<2016-09-12 Mon>  
+
+ 1) Absorption
+
+    Absorption is a process in which something enters your body through the skin. It is a method for toxic substances to enter your body if you aren't careful. Some factors influencing absorption are; Concentration, Duration of contact, and physical condition of the skin. \footnote{https://en.wikipedia.org/wiki/Absorption\_(skin)} 
+ 2) Inhalation
+
+    Inhalation is when air enters the lungs. Accidental inhalation can occur around dangerous fumes, causing the lungs to partially or fully stop working. \footnote{https://en.wikipedia.org/wiki/Inhalation}
+ 3) Ingestion
+
+    Ingestion is the consumption of a substance by an organism. Dangerous substances or pathogens can be accidentally Ingested, causing damage or death. \footnote{https://en.wikipedia.org/wiki/Ingestion}
+ 4) Slip Hazards
+    
+    Slip Hazards are things that you can slip and fall on, possibly injuring yourself or others. Slip hazards might include; Puddles of liquid, slippery floor, etc.
+
+*** Inside a Single-Lens Reflex Camera 
+<2016-09-07 Wed>
+:list:
+- Basic Features
+  * A light-tight box to hold the camera parts and film or a recording chip
+  * A viewing system that lets you aim the camera accurately
+  * A lens to form an image and a mechanism to focus it sharply
+  * A shutter and lens aperture to control the amount of light that reaches the recording surface
+  * A means to hold and advance the film or to hold a digital chip and save it's captured information
+- Body
+  * The light-tight box that contains the camera's mechanisms and protect the film or chip from light until you are ready to make a photograph
+- Lens
+  * Focuses an image in the viewfinder and on the recording surface: film or sensor
+- Lens elements
+  * The optical glass lens components that produce the image
+- Focusing rings
+  * Turning the ring focuses the image by adjusting the distance of the lens from the recording surface. Some cameras focus automatically.
+- Diaphragm
+  * A circle of overlapping leaves inside the lens that adjusts the size of the aperture. It upens up to increase or closes down to decrease the amount of light reaching the recording surface.
+- Aperture ring / button
+  * Setting the ring of button determines the size of the diaphragm during exposure
+- Mirror
+  * During viewing, the mirror reflects light from the lens upward onto the viewing screen. During an exposure, the mirror swings out of the way so light can pass straight to the recording surface.
+- Viewing screen
+  * A ground-glass (or similar) surface on which the focused image appears
+- Pentaprism
+  * A five-sided optical device that reflects the image from the viewing screen into the viewfinder
+- Metering Cell
+  * Measures the brightness of the scene being photographed
+- Viewfinder eyepiece
+  * A window through which the image from the pentaprism is visible
+- Shutter
+  * Keeps light from the recording surface until you are ready to take a picture. Pressing the shutter release opens and closes the shutter to let a measured amount of light reach the film or chip
+- Film
+  * A light-sensitive material that records the image. The ISO, or film speed (the rating of a particular film's sensitivity), is set into the camera by turning a dial or, on some cameras, is set automatically when you load the film. Digital cameras advance film automatically, those and digital cameras have no lever.
+- Film advance
+  * A lever that advances the film to the next unexposed segment. Most new film cameras advance film automatically; those and digital cameras have no lever.
+- Shutter-speed dial or button
+  * Selects the shutter speed, the length of time the shutter remains open. On some models, it also sets the mode of automatic exposure operation.
+- Shutter release
+  * A button that activates the exposure sequence in which the aperature adjusts, the mirror rises, the shutter opens, and the light strikes the recording surface
+- Hot shoe
+  * A bracket that attaches a flash unit to the camera and provides an electrical linking that synchronizes camera and flash
+- Rewind mechanism
+  * On manual cameras, a crank you turn to rewind film into its cassette after a roll of film has been exposed. Most new film cameras have a motor the rewind the film automatically
+- Film cassette
+  - The light-tight container in which 35mm film is packaged. Digital cameras use a memory card to store images.
+:end:
+*** History of Photography
+<2016-09-15 Thu>
+
+1. Exposure time for the first photograph was 8 hours
+2. In 1835, Daguerre discovered that a polished silver sheet could be made light-sensitive if exposed to iodine vapor.
+3. Earliest photographs were printed on metal plates called ``Daguerrotypes'' after the inventor.
+4. Joseph Niepce, a Frenchman, created the world's first photograph by spreading a light-sensitive varnish on a polished metal plate and exposing it in a modified camera obscura
+5. An American, George Eastman, introduced a 100-shot camera in 1888 along with the trademark, Kodak.
+6. The first Camera Obscura was a darkened room with a convex lens inserted in one wall.
+7. Exposure times needed to be Shortened to make portraiture more practical.
+8. Photographers using the wet collodion process had to take their darkrooms along when they took pictures because the plates had to be exposed and developed while still wet - T
+9. Photography took 100 years to reach its present state, and no one person can be credited with its invention - F, took several hundred years
+10. The Latin meaning of Photography is ``Writing (graphy) with light (photo)'' - T
+*** Top 10 tips
+<2016-09-15 Thu>
+
+1. Get down on their level
+2. Use a plain background
+3. Use flash outdoors
+4. Move in close
+5. Take some vertical pictures
+6. Lock the focus
+7. Move it from the middle
+8. Know your flash's range
+9. Watch the light
+10. Be a picture director
+*** 10 Types of Photography
+<2016-10-03 Mon>
+1. Fashion
+2. Nature
+3. Wildlife
+4. HDR
+5. Still Life
+6. Black and White
+7. Wedding
+8. Travel
+9. Time lapse
+10. Macro
+11. Underwater
+12. High Speed
+*** 10 Elements of Composition
+<2016-10-13 Thu>
+
+1. *Lines*
+   Lines in a picture serve to emphasize a lack of change in the photo, which in turn can evoke a sense of peace.
+2. *Shapes*
+3. *Colors*
+4. *Texture*
+5. *Pattern*
+6. *Balance*
+7. *Negative Space*
+8. *Perspective/Viewpoint*
+9. *Framing*
+10. *Rule of Thirds*
+*** Light Meters
+SLR - Centre Weighted
+DSLR - 9 Points and Adjustable
+*** Developing Process
+Developer -> 90sec
+Stop Bath -> 30sec
+Fixer -> 3-4min
+Wash Tray -> 5min
+** Physics
+*** Scientific Notation
+<2016-09-07 Wed> 
+
+Easy way to represent very large and very small numbers
+\[N \cdot 10^n\]
+N = Coefficient - Number with only one digit to the left of the decimal place. (1-9)
+
+n = Exponent - How to move the decimal in the coefficient to expand the number. Positive for big numbers, negative for small numbers.
+
+1) Move decimal place between the first 2 digits
+2) Write the coefficient
+3) Count the decimal moves
+4) Write the exponent of 10
+
+eg. 15000000K (Standard) --> (Scientific Notation) 1.5x10^7
+
+**** Numbers in Scientific Notation
+1) Express each of the following numbers in scientific notation
+   - 230 = 2.3x10^2
+   - 5601 = 5.601x10^3
+   - 14100000 = 1.41x10^7
+   - 56000000 = 5.6x10^7
+   - 0.2 = 2x10^{-1}
+   - 0.45013 = 4.5013x10^{-1}
+   - 0.089 = 8.9x10^{-2}
+   - 0.00026 = 2.6x10^{-4}
+   - 0.000000698 = 6.98x10^{-7}
+2) Express each of the following measurements in scientific notation
+   - 2997924588 = 2.997924588x10^8
+   - 86400 = 8.64x10^4
+   - 6378 = 6.378x10^3
+   - 0.00142 = 1.42x10^{-3}
+   - 0.000000000098 = 9.8x10^{-11}
+     
+**** Operations with Scientific Notation
+
+1) (1.2x10^5) + (5.35x10^6) = 5.47x10^6
+2) 
+
+*** Converting Units
+<2016-09-08 Thu>
+**** Factor Label Method
+Desired Unit = Given Unit $\cdot$ Conversion Factor 
+
+eg. Convert 18 days into minutes
+
+Minutes = 18 days $\cdot \frac{24h}{1 day} \cdot \frac{60min}{1h}$
+
+_S.I. Units --> International System of Units_
+
+ * Units that are globally accepted for specific quantities
+
+| Number | Name                | "Base" SI Unit | Symbol |
+|--------+---------------------+----------------+--------|
+|      1 | Length              | Metre          | m      |
+|      2 | Mass                | Kilogram       | kg     |
+|      3 | Time                | Second         | s      |
+|      4 | Electric Current    | Ampere         | A      |
+|      5 | Temperature         | Kelvin         | K      |
+|      6 | Amount of Substance | Mole           | mol    |
+|      7 | Luminous Intensity  | Candela        | cd     |
+
+**** Conversions Worksheet
+<2016-09-08 Thu>
+
+1. 60mph --> m/s
+2. 130m/s --> Mph
+3. 1100fps --> Mph
+4. 53 yard/h --> inches/week
+5. 721 lbs/week --> kg/s
+6. 88in/s --> Mpday
+7. 12080gallons/month --> Lph
+8. 27 Mpgallon --> Km/L
+9. 1806282 Mpsecond --> Meter/second
+10. 60 mi/h x 5280ft/1mi x 1m/3.28ft x 1h/60min x 1min/60s = 26.8292682927 
+11. 130m/s x 2.2mi/h/1m/s = 
+    
+***** DONE Unit Conversion Worksheet
+   DEADLINE: <2016-09-09 Fri>
+
+*** Significant Figures
+<2016-09-09 Fri>
+_Rules for Significant Figures_
+
+1. All nonzero figures are significant
+2. When a zero falls between nonzero digits, that zero is significant
+3. When a zero falls after the decimal point and after a significant figure, that zero is significant
+4. When a zero is used merely to indicate the position of a decimal, that zero is not significant
+5. All counting numbers and exact numbers are treated as if they have an infinite number of significant figures
+*** Rounding Numbers to the Correct Number of Significant Digits
+<2016-09-12 Mon>
+**** Multiplying and Dividing 
+To determine the number of significant digits in your final _answer_ when multiplying or dividing, first do the calculation. Then _round_ the answer to the same number of significant digits that is in the number from the question with the _least significant digits_.
+
+eg. $116 / 2.2 = 52.72727273 = 5.3\times10^1$
+
+eg. $25.75 \cdot 2.54 = 65.405 = 6.54\times10^1$ 
+
+**** Adding and Subtracting
+When adding or subtracting, first do the calculation. Then round the answer to the same number of decimal places as the number with the fewest decimal places in the question. 
+
+eg. $4.89 + 1.9 + 3.506 = 10.296 = 1.03\times10^1$
+
+**** Multi-Step/Operation Calculation
+Apply the rules for multiplication and division. Don't round until the final answer or carry more digits throughout multi-step calculations.
+
+eg. $27.65(1.9) + 100 = 153.535 = 1.5/times10^2$
+
+Remember: 
++/- --> Count Decimal Places
+x// --> Count Significant Digits 
+ 
+*** Trigonometry 
+<2016-09-15 Thu>
+
+\(\sin\theta = \frac{opp}{hyp}\)
+
+\(\cos\theta = \frac{adj}{hyp}\)
+
+\(\tan\theta = \frac{opp}{adj}\)
+
+\(b^2 = a^2 + c^2 - 2ac \cos B\)
+
+**** Trigonometry Practice Problems 
+**** Sine Law and Cosine Law Worksheet 
+**** Review - Math Skills
+*** Bubble Lab 
+    <2016-09-19 Mon>
+
+**** Observations
+
+#+tblname: bubblelab
+| Trial Number | Diameter (cm) | Circumference (cm) |
+|--------------+---------------+--------------------|
+|            1 |           4.7 |               19.5 |
+|            2 |           5.5 |                 18 |
+|            3 |           6.5 |               23.5 |
+|            4 |           4.5 |               16.5 |
+|            5 |             5 |                 19 |
+|            6 |           2.2 |                  8 |
+|            7 |           4.7 |               17.5 |
+|            8 |           3.4 |                 12 |
+|            9 |             9 |                 33 |
+|           10 |           2.5 |                  8 |
+
+**** Graph
+
+#+BEGIN_SRC gnuplot :var data=bubblelab :file output.png 
+
+set title "Diameter (cm) vs Circumference (cm)"
+set xlabel "Diameter (cm)"
+set ylabel "Circumference (cm)"
+set terminal pngcairo fname 'Verdana' fsize 10
+unset key
+set samples 1000
+f(x) = a+b*x
+fit f(x) data using 2:3 via a,b
+plot data using 2:3 lc rgb 'red', f(x)
+ 
+#+END_SRC
+
+#+RESULTS:
+[[file:output.png]]
+
+**** Line of best fit / slope 
+
+The slope of the Line of best fit is 3.70381.
+
+**** Questions
+
+1. Should all of your data points fall on the line of best fit? Explain.
+
+  No, not all of my points should fall on the line of best fit because the measurements aren't precise enough, if they were all on the line of best fit the diameter would have to relate to the circumference perfectly, and some of the bubbles weren't perfect circles.
+
+2. If the true answer for the slope is 3.1415926, Calculate your percentage error for your slope using the following formula.
+
+   \[\%\text{error}=\frac{\text{Experimental Value(slope)} - \text{Actual Value(slope)}}{\text{Actual Value(slope)}}\cdot 100\%\]
+
+   \[\%\text{error}=\frac{3.70381 - 3.1415926}{3.1415926}\cdot 100\%\]
+
+   \[\%\text{error}=17.8959\%\]
+
+3. What sources of errors could happen in this lab?
+
+  Definitely the measurements, the string worked, but there was no way the measurements were 100% accurate for every bubble.
+
+4. How could you limit these errors?
+
+  Use a more precise tool to measure the diameter and circumference of the bubbles.
+
+*** Kinematics
+<2016-09-19 Mon>
+
+- The study of motion
+
+**** 2 Types of Motion
+***** Uniform
+- Movement @ a constant speed in a constant direction or @ rest
+- eg. travelling @ 100km/h down a straight highway
+- Acceleration = 0
+***** Non-Uniform
+- Movement that involves changes in speed or direction or both.
+- Eg. speeding up from a stoplight or turning a corner.
+- Acceleration != 0
+**** Physical Quantities
+- Numerical values including units (mass, density, length, volume, speed, distance, time, temperature, acceleration, voltage, current, resistance, velocity, displacement, energy)
+***** Scalar Quantities
+- Have magnitude (size) and unit only
+- Eg. 15Kg
+***** Vector Quantities
+- Have magnitude (size), _direction_, and unit.
+- Eg. 120Km/h [NW]
+***** Distance
+- Total length of the path travelled - symbol: d
+d = 4 Km
+***** Displacement
+- The straight line distance from the start to the end.
+- symbol: \(\Delta\)
+
+\(\Delta\) --> "Change In"
+
+\[\vec{\Delta d} = \vec{d_2} - \vec{d_1}\]
+
+\[\vec{\Delta d_R} = \vec{\Delta d_1} + \vec {\Delta d_2} + \vec{\Delta d_3}\] etc.
+
+\(\vec{\Delta d_R}\) = total, overall, resultant, net, sum
+***** Position
+- The distance and direction from a particular reference point
+- Symbol: \(\vec{d}\)
+***** Calculate distance (d) and displacement (\(\vec{\Delta d})\)
+1. Home --> Library --> Home
+
+  \[d = 1200 + 1200 = 2400m\]
+  \[\vec{\Delta d_R} = 1200m[E] + 1200m[W]
+  = 1200m[E] + (-1200m)[E]
+  = 0m\]
+
+2. School --> Home --> Library
+
+  \[d = 500 + 1200 = 1700m\]
+
+  \[\vec{\Delta d_R} = 500m[W] + 1200m[E]
+  = -500m[E] + 1200m[E]
+  = 700m[E]\]
+***** Vector Quantities
+- Can be drawn or represented using arrows
+- They should have relative lengths and directions
+  
+\[10m[W] \text{vs.} 5m[E]\]
+
+\begin{center}
+<---------- ----->
+\end{center}
+
+***** Scale Diagram
+- Representation of motion using vectors drawn to scale
+
+eg. Scale: 1cm = 2m
+
+1) 12m[E] ------------>
+   
+***** Vector Addition
+- Multiple vector quantities
+- Add each vector tip-to-tail
+
+tail -> -------> <- tip
+
+----->-----> -> Tip to tail
+
+------------> -> Total
+*** Motion, Scalar and Vector Quantities
+    <2016-09-19 Mon>
+   
+**** Page 9
+     
+1. Write the vectors below using symbols.
+   - 30 metres north: 30m[N]
+   - 12 kilometers southwest: 12Km[SW]
+   - 1.9 metres forward: 1.9m[fwd]
+   - 64 centimetres to the left: 64cm[left]
+
+2. When drawing vector,
+   - What does the length of the line represent?
+   - How is the direction shown?
+
+3. Using the scales given, draw each vector to scale.
+   - 1cm = 25m, \(\vec{\Delta d} = 50m[W]\)
+   - 1cm = 10m, \(\vec{\Delta d} = 28m[E]\)
+   - 1cm = 20km, \(\vec{\Delta d} = 46km[SE]\) 
+     
+**** Page 10
+
+1. Define Reference Point
+   
+2. How is direction written?
+
+3. Define position
+     
+*** Speed + Velocity
+<2016-09-21 Wed>
+**** Speed
+- Distance travelled per unit time
+- Scalar quantity
+- Symbol: \(v\)
+- \(Vav = \frac{d}{t}\), Vav = Average Speed, d = distance, t = time
+**** Velocity
+- Displacement per unit time
+- Vector quantity
+- Symbol: \(\vec{v}\)
+- \(\vec{Vav} = \frac{\vec{\Delta d}}{t}\)
+- \(\vec{Vav} = \frac{\vec{V_1}+\vec{V_2}}{2}\)
+  
+Eg. Track + Field
+
+100m race
+
+\[Vav = \frac{d}{t} = \frac{100}{12} = 8.3m/s\]
+\[\vec{Vav} = \frac{\vec{\Delta d}}{t} = \frac{100}{12} = 8.3m/s\]
+
+400m race
+
+\[Vav = \frac{d}{t} = \frac{400}{54} = 7.4m/s\]
+\[\vec{Vav} = \frac{\vec{\Delta d}}{t} = \frac{0}{54} = 0m/s\]
+
+*** Speed, Distance, Time Worksheet
+<2016-09-21 Wed>
+
+Given\\
+Required\\
+Analysis\\
+Solution\\
+Paraphrase
+
+\noindent\(d = Vav \cdot t\)\\
+\(Vav = \frac{d}{t}\)\\
+\(t = \frac{d}{Vav}\)
+
+1. t = 3h, Vav = 40km/h, d = ?\\
+   \(d = Vav \cdot t\)\\
+   \(d = 40 \cdot 3 \)\\
+   \(d = 120\text{Km}\)
+
+2. t = ?,  Vav = 30mph, d = 240m\\
+   \(t = \frac{d}{Vav}\)\\
+   \(t = \frac{240}{30}\)\\
+   \(t = 8\text{h}\)
+
+3. t = 6h, Vav = ?, d = 540Km\\
+   \(Vav = \frac{d}{t}\)\\
+   \(Vav = \frac{540}{6}\)\\
+   \(vav = 90\text{Km/h}\)
+
+4. t = 10.6s, Vav = ? d = 100m\\
+   \(Vav = \frac{d}{t}\)\\
+   \(Vav = \frac{100}{10.6}\)\\
+   \(Vav = 9.4\text{m/s}\)
+
+5. t = 
+*** SPH3U: Delivery! Position - Time (\(\vec{d}-t\)) Graphs 
+    <2016-09-23 Fri>
+
+1. a) 130m[W] b) 260m[W] c) 390m[W] d) 0m[E]
+2. 2
+3. 30s
+4. 390m[W]
+5. Vav = 13m/s[W]
+6. East
+7. 19.5m/s
+8. 780m
+9. 0m
+10. Vav = 7.8m/s
+11. \(\vec{Vav}\) = 0m/s[W]  
+*** P-t Graph
+    <2016-09-23 Fri>
+    
+- Position: Read from graph
+- Velocity: Slope of the line
+*** Watch Khanacademy Videos  
+*** Distance, Position & Displacement Worksheet
+*** Pg 21-30 4, 6, 7, 8
+    1. A catapult accelerates a rock from rest to a velocity of 15.0 m/s [S] over a time interval of 12.5 s. What is the rock's average acceleration?\\
+       \(\vec{a_{av}} = \frac{\vec{V_2} - \vec{V_1}}{\Delta t}\)\\
+       \(\vec{a_{av}} = \frac{15 - 0}{12.5}\)\\
+       \(\vec{a_{av}} = 1.2 m/s^2 [S]\)
+    2. A car approaches a highway on-ramp, it increases it's velocity from 17 m/s [N] to 25 m/s [N] over 12s. What is the car's average acceleration?\\
+       \(\vec{a_{av}} = \frac{\vec{V_2} - \vec{V_1}}{\Delta t}\)\\
+       \(\vec{a_{av}} = \frac{25-17}{12}\)\\
+       \(\vec{a_{av}} = 0.67 m/s^2[N]\)
+    3. A squash ball with an initial velocity of 25 m/s [W] is hit by a squash racket, changing it's velocity to 29 m/s [E] in 0.25 s. What is the squash ball's average acceleration? \\
+       \(\vec{a_{av}} = \frac{\vec{V_2} - \vec{V_1}}{\Delta t}\)\\
+       \(\vec{a_{av}} = \frac{29-25}{0.25}\)\\
+       \(\vec{a_{av}} = 2.2 \times 10^2 m/s^2 [E]\)
+    4. How long does it take a radio-controlled car to accelerate from 3.2 m/s [W] to 5.8 m/s [W] if it experiences an 
+ 
+*** Pg 31-35 1, 2, 3, 4
+*** Speed, Velocity and Acceleraion Lab
+**** Velocity
+1) You run 100 meters in 15 seconds. What is your speed in m/s?
+   7 m/s
+2) In a race, you run 3000 meters east in 21 minutes. What is your velocity in Km/min?
+   0.1 Km/min
+3) You walk forward 10 meters, backwards 5 meters, and then 10 meters forwards in 15 seconds. What is your overall velocity forwards in m/s?
+   1 m/s
+**** Acceleration
+1) What would the average acceleration be for a car at a stoplight that speeds up to 20 m/s in 10 seconds? (in m/s^2)
+   2m/s^2
+2) Imagine that a car traveling at 100 m/s must slam on the brakes to avoid hitting a racoon. If it takes 4 seconds for the car to slow down to a stop, what is it's acceleration?
+   25 m/s^2
+**** Velocity Mini-Lab
+***** Hypothesis 
+If the ramp height increases, the velocity will increase because gravity will have more pull on the car.
+***** Observations 
+      #+tblname: testing
+      | Ramp Height (cm) | Time (s) | Velocity (cm/s) |
+      |------------------+----------+-----------------|
+      |               12 |      5.4 |              45 |
+      |               17 |      3.2 |              76 |
+      |               21 |      2.6 |              94 |
+      |               24 |      2.4 |             102 |
+      |               28 |      2.2 |             111 |
+      |                  |          |                 |
+***** Graph
+
+#+BEGIN_SRC gnuplot :var data=testing :file file.png
+
+set title "Ramp Height (cm) vs. Velocity (cm/s)"
+set xlabel "Ramp Height"
+set ylabel "Velocity"
+set terminal pngcairo fname 'Verdana' fsize 10
+set xrange [10:30]
+set grid
+unset key
+set samples 1000
+f(x) = a+b*x
+fit f(x) data using 1:3 via a,b
+plot data using 1:3 lc rgb 'red', f(x)
+
+#+END_SRC
+
+#+RESULTS:
+[[file:file.png]]
+*** Comparing Graphs of Linear Motion
+<2016-10-03 Mon>
+
+Graphical analysis is one of the most powerful analytical tools available to physicists. In studying the motion of objects, analyzing position-time, velocity-time and acceleration-time graphs can help us gain insight into real-life events such as the motion of the cheetah. 
+
+*** SPH3U: Graphing Review 
+    <2016-10-03 Mon>
+    
+| Information Sought                          | Position-time graph                        | Velocity-time graph |
+|---------------------------------------------+--------------------------------------------+---------------------|
+| Where the object is at a particular instant | Read it off the graph                      | Area                |
+| The object's velocity at an instant         | Slope                                      | Read                |
+| The object's acceleration (if constant)     | Can't tell                                 | Compute the slope   |
+| Whether the motion is uniform               | Linear                                     | Horizontal          |
+| Whether the object is speeding up           | Check whether the curve is getting steeper | Read                |
+| Whether the object is slowing down          | Steep to flat                              | Read                |
+| Whether the acceleration is constant        | Curve                                      | Linear              |
+| the object's change in position             | Read                                       | Area                |
+| The object's change in velocity             | Slope                                      | Read                |
+
+*** Graphing Practice Sheets
+
+Alison, starting from rest, accelerates at 3 m/\(s^2\) [E] until her car is travelling at 15 m/s [E]. Complete the table below to determine her velocity at 1 s intervals.
+| \(\Delta t (s)\) | \(v_2 = v_1 + a \Delta t (m/s) |
+|------------------+--------------------------------|
+|                0 |                                |
+|                1 |                                |
+|                2 |                                |
+|                3 |                                |
+|                4 |                                |
+|                5 |                                |
+
+*** Acceleration
+<2016-09-26 Mon>
+      
+- Rate of change in velocity
+- Symbol: \(\vec{a}\) --> a
+- vector quantity
+- Slowing down
+  - deceleration
+  - negative acceleration
+- total "change in" velocity divided by the time elapsed
+- unit: \(\frac{m}{s^2}\) --) m/s/s
+- \(a = \frac{\vec{\delta v}}{t}\)
+- \(a = \frac{\vec{v_2} - \vec{v_1}}{t}\)
+- \(\vec{v_2} = at + v_1\)
+- \(\vec{v_1} = at - V_2\)
+- \(t = \frac{\vec{v_2} - \vec{v_1}}{a}\)
+**** Worksheet
+
+1. Car A accelerates from (0 m/s) to 27.8 m/s in 16.0 s. Car B takes 8.0s in the same test. Which car has the greater average acceleration?
+
+2. Kirsten rides her bike up a ramp - at the bottom of the ramp, she is riding at 5.6 m/s. When she reaches to top, she is travelling at 1.8 m/s. If it takes her 28s to ride up the ramp, what is her acceleration?
+
+3. Brad starts his bike down the ramp at 2.8 m/s and then accelerates at 0.25 m/\(s^2\) for 18 s. What is his speed at the end of this time?
+
+4. Kirsten is travelling at 6.5 m/s when she applies her brakes to avoid a patch of loose gravel. She accelerates at a rate of -2.6 m/\(s^2\). How much time does it take her to stop?
+
+5. Brad coasts down a long hill on his bike. He accelerates at 0.12 m/\(s^2\) for 85 s and is travelling at 12.5 m/s at the bottom of the hill. What was his initial speed?
+
+*** Picket Fence Free Fall
+**** Analysis
+<2016-10-11 Tue>
+
+1. 
+2. Curve
+3. Line
+4. \(g = 9.8 \pm 0.1 m/2^2\)
+5. \(\frac{0.1}{9.8} \cdot 100\% = 1\%\) 
+6. The measured value from the textbook is 9.8 m/\(s^2\), which is what our average was, therefore our experiment agrees with the accepted value.
+7. The acceleration vs. time graph would be a horizontal line
+8.
+
+**** Homework
+<2016-10-11 Tue>
+
+- Ch. 1 Self-Quiz
+- Ch. 1 Review pg. 52+53
+- Labs~ Read both over ***
+*** Ball Throw
+<2016-10-12 Wed>
+
+#+tblname: ball
+| 0 | 0.456 |
+
+#+BEGIN_SRC gnuplot :var ball2=ball :file ball.png
+
+reset 
+set title "Position vs. Time"
+set grid
+unset key
+set terminal pngcairo fname 'Verdana' fsize 10
+set samples 100000
+plot [-10:10] [:] -0.36709*x**2 + 0.79567 * x + 0.47616 with lines, ball2 with points 
+
+#+END_SRC
+#+RESULTS:
+[[file:ball.png]]
+
+#+BEGIN_SRC gnuplot :file ball1.png
+
+set samples 100000
+set title "Velocity vs. Time"
+plot -9.7028*x + 10.444
+
+#+END_SRC
+#+RESULTS:
+[[file:ball1.png]]
+
+#+BEGIN_SRC gnuplot :file ball2.png
+
+set title "Acceleration vs. Time"
+plot -9.892
+
+#+END_SRC
+#+RESULTS:
+[[file:ball2.png]]
+*** TODO Pg 66-75
+*** TODO Pg 69 Num 1
+*** TODO Pg 71 Num 1, 2
+*** Component Method (x, y) For Vector Addition
+
+1) Add 40km/h [NE] + 10km/h [W]
+
+** Chemistry
+*** Using the Periodic Table Activity
+    <2016-09-09 Fri>
+
+| Element  | Symbol | Atomic Mass | Num / Elec / Prot | Number of Neutrons |
+|----------+--------+-------------+-------------------+--------------------|
+| hygrogen | H      |     1.00794 |                 1 |                  0 |
+| neon     | Ne     |     20.1797 |                10 |                 10 |
+| aluminum | Al     |   26.981539 |                13 |                 14 |
+| gold     | Au     |   196.96654 |                79 |                118 |
+| helium   | He     |    4.002602 |                 2 |                  2 |
+| iron     | Fe     |      55.847 |                26 |                 30 |
+| zinc     | Zn     |          65 |                30 |                 35 |
+| sulfur   | S      |      32.066 |                16 |                 16 |
+| calcium  | Ca     |      40.076 |                20 |                 20 |
+| chlorine | Cl     |     35.4527 |                17 |                 18 |
+| mercury  | Hg     |      200.59 |                80 |                120 |
+| krypton  | Kr     |        83.8 |                36 |                 48 |
+| iodine   | I      |   126.90447 |                53 |                 74 |
+| silicon  | Si     |     28.0855 |                14 |                 14 |
+| uranium  | U      |    238.0289 |                92 |                146 |
+
+*** Practice Test Chem
+<2016-09-09 Fri>
+
++ One neutral atom of $\ce{^{200}_{82}Pb}$ contains -- (a) 82 neutrons, 200 protons, and 200 electrons. 
++ How many valence electrons are there in one atom of sulphur? -- (a) 6
++ A bright yellow solid substance is known to be an element. It is brittle and will shatter if hit with a hammer. It is a poor conductor of both heat and electricity. This element is best called a(n): -- (c) nonmetal
++ Which of the forllowing is the correct electron dot diagram of a magnesium ion? -- (d) [\ce{Mg}]^{+2}
++ What will magnesium oxide produce when dissolved in water? --  
++ During an investigation, a student observed that when aluminum was placed in an acid solution, bubbles of hydrogen gas were produced and the aluminum was used up. The student also observed that when gold was placed into the same acid, there was no reaction. Based on these observations, the student was able to list the three elements in order from the most reactive to the least reactive. What is the correct order? -- (d) aluminum, hydrogen, gold
+
+*** Bohr Diagrams
+<2016-09-12 Mon>
+
+\bohr{1}{H}
+\bohr{2}{He}
+\bohr{3}{Li}
+\bohr{4}{Be}
+\bohr{5}{B}
+\bohr{6}{C}
+\bohr{7}{N}
+\bohr{8}{O}
+\bohr{9}{F}
+\bohr{10}{Ne}
+\bohr{11}{Na}
+\bohr{12}{Mg}
+\bohr{13}{Al}
+\bohr{14}{Si}
+\bohr{15}{P}
+\bohr{16}{S}
+\bohr{17}{Cl}
+\bohr{18}{Ar}
+\bohr{19}{K}
+\bohr{20}{C}
+*** Group Numbers & Periods
+<2016-09-13 Tue>
+
+Group Number = Number of Valence Electrons
+*** p.16 # 1-3, 5, 7, 9, 10
+
+<2016-09-13 Tue>
+
+1) Draw Bohr-Rutherforrd diagrams for the following atoms:
+   - Ca - \bohr{20}{Ca}
+   - C - \bohr{6}{C}
+   - Si - \bohr{14}{Si}
+2) How many valence electrons are in each of the atoms that you drew in Question 1?
+   - Ca - 2
+   - C - 4
+   - Si - 4
+3) Contruct a timeline forr the development of atomic theory. Include the major milestones and the names of key scientists and brief descriptions or diagrams of their experiments. 
+
+322 B.C., Aristotle. Believed all matter was composed of forur elements, earth, water, air and fire. 
+*** Understanding Atomic Mass
+ <2016-09-15 Thu> 
+
+ [[file+emacs:/home/kadin/chemnotes.pdf][Chem Notes]]
+
+ 1. There are three isotopes of hydrogen: hydrogen-1, hydrogen-2 (knows as deutrium), and hydrogen-3 (known as tritium). Create a table listing the number of protons and neutrons in an atom of each of hydrogen's isotopes.
+
+    | Isotope    | Protons | Neutrons |
+    |------------+---------+----------|
+    | \ce{^1_1H} |       1 |        0 |
+    | \ce{^2_1H} |       1 |        1 |
+    | \ce{^3_1H} |       1 |        2 |
+
+ 2. The atomic mass of chlorine is 35.45 u. Is it possible forr any single atom of chlorine to have a mass number of exactly 35.45? Explain.
+
+ No, you either have a neutron or you don't. 
+
+ 3. Silver exists in nature as two isotopes: Ag-107 and Ag-109. If the average atomic mass of silver is 107.9 u, which isotope is more abundant? Explain your answer.
+   
+   Ag-107, by a little bit
+
+ 4. Silicon exists as three isotopes (Table 1). Determine the atomic mass of silicon.
+
+ \[28 \cdot 0.9223 + 29 \cdot 0.0467 + 30 \cdot 0.0310 = 28.1087\]
+
+ 5. Imagine an element, X, that has two naturally occurring isotopes. If you know the mass and the percentage abundance of one of the isotopes, how would you determine the percent abundance of the other isotope? Describe your problem-solving process.
+
+ 6. The atomic mass of carbon is 12.0107 u. It exists naturally as three isotopes: C-12, C-13 and C-14. Based on your understanding of isotopes and atomic mass, determine which isotope would have the greatest abundance. Explain your choice.
+
+ 7. Naturally occurring chlorine consists primarily of two isotopes: Cl-35 and Cl-37. Determine the number of protons, electrons and neutrons forr an atom of each isotope.
+
+ 8. Distinguish between an isotope and a radioisotope.
+
+ An isotope is stable, a radioisotope decays and emits alpha, beta, or gamma particles. 
+
+ 9. Potassium naturally consists of 93.10 % K-39 and 6.90 % K-41. Calculate the atomic mass forr potassium.
+
+ 10. Research three different careers in which people handle radioisotopes (Figure 8). List safety precautions they take to ensure minimal exposure to radiation. 
+
+ =Application question, fair game forr test=
+    
+ Radiologist, 
+*** Nuclear Decay Equations
+\[\ce{^{155}_{63}Eu -> ^{4}_{2}He + ^{151}_{61}Pm}\]
+\[\ce{^{168}_{67}Ho -> ^{0}_{-1}e + ^{168}_{68}Er}\]
+**** Half-Life Problem
+If 6486g of a radioisotope with a half-life of 2.5 days undergoes decay for 31.6 days, what mass will remain?
+
+mass remaining = \(\frac{\text{original mass}}{2^n}, \text{n= number of half-lives}\)
+
+1.016g
+
+What mass will remain of C-14 if 500g of it decays for 95a? The half-life of C-14 is 5730a.
+
+mass remaining = \(\frac{500g}{2^{0.016}}\)
+\(=494.48g\)
+
+*** Lewis Diagrams of Atoms
+
+\indent Li - \lewis{0.,Li}
+
+Be - \lewis{0.2.,Be}
+
+B - \lewis{0.2.4.,B}
+
+C - \lewis{0.2.4.6.,C}
+
+N - \lewis{0.2:4.6.,N}
+
+*** Pg 33, 1-7
+
+1. 
+   
+  a) Fe b) Si c) Ar d) F e) Li f) Uub g) Hg h) Pa
+
+2. 
+
+  a) Cl b) Kr c) Si d) Rb
+
+3. 
+
+  The noble gases all have full outer electron shells, and therefore do not want to give or recieve electrons, making all of them extremely stable. This is the same for all of the other periods, for example Alkali metals only have one outer electron and want to get rid of it as quickly as possible.
+
+4. 
+
+  a) Mg - \lewis{0.2.,Mg} b) Al - \lewis{0.2.6.,Al} c) N - \lewis{0.2:6.,N} d) F - \lewis{0:2:4:6.,F} e) Ar - \lewis{0:2:4:6:,Ar}
+
+5. 
+
+  a) Na - \bohr{11}{Na} \lewis{0.,Na} \bohr{4}{Be} \lewis{0.2.,Be} \bohr{5}{B} \lewis{0.2.4.,B}
+
+  b) You just count the amount of electrons in the outer shell and thats the amount of dots you need.
+
+6. 
+
+  a) 7 b) 6 c) 2 d) 1 e) 8 f) 4 g) 3
+
+7. 
+
+  a) Cs is more reactive because it has less valence electrons
+
+  b) F would be more reactive because it is more eager to gain electrons
+
+  c) Na would be more reactive because Argon cannot give or recieve electrons and therefore is completely stable
+
+  d) Mg would be more reactive because it is more eager to give up it's electrons than Si is willing to gain electrons.
+
+*** Science Lab
+**** Ph Levels
+| Element   | Ph of water      |
+|-----------+------------------|
+| Tap Water | Pink - Under 4.5 |
+| Calcium   | Blue - Above 8.3 |
+| Magnesium | Pink - Under 4.5 |
+| Copper    | Pink - Under 4.5 |
+
+**** The Search for Patterns Lab
+***** 
+ \begin{center}
+ \Huge{The Search for Patterns}\\
+ \vspace{1em}
+ \large{Kadin Parker}\\
+ \vspace{0.5em}
+ Ms. Lang\\
+ \vspace{0.5em}
+ SCH3U101\\
+ \vspace{0.5em}
+ Korah Collegiate and Vocational School\\
+ \vspace{0.5em} 
+ \today\\
+ \vspace{2em}
+ \end{center}
+ \newpage
+****** Purpose
+To observe relationships between the reactivity of
+elements and their location on the periodic table
+****** Background Information
+******* Hydrochloric Acid
+``Hydrochloric acid is a colourless, highly pungent solution of hydrogen chloride (HCl) in water. It is a corrosive, strong mineral acid with many industrial uses. Hydrochloric acid is found naturally in gastric acid. When it reacts with an organic base it forms a hydrochloride salt.''\cite{wikica}
+******* Zinc
+``Zinc is a chemical element with symbol Zn and atomic number 30. It is the first element in group 12 of the periodic table. In some respects zinc is chemically similar to magnesium: both elements exhibit only one normal oxidation state (\+2), and the Zn2+ and Mg2+ ions are of similar size. Zinc is the 24th most abundant element in Earth's crust and has five stable isotopes. The most common zinc ore is sphalerite (zinc blende), a zinc sulfide mineral. The largest workable lodes are in Australia, Asia, and the United States. Zinc is refined by froth flotation of the ore, roasting, and final extraction using electricity (electrowinning).'' \cite{wikizn}
+******* Iron 
+``Iron is a chemical element with symbol Fe (from Latin: ferrum) and atomic number 26. It is a metal in the first transition series. It is by mass the most common element on Earth, forming much of Earth's outer and inner core. It is the fourth most common element in the Earth's crust. Its abundance in rocky planets like Earth is due to its abundant production by fusion in high-mass stars, where it is the last element to be produced with release of energy before the violent collapse of a supernova, which scatters this precursor radionuclide of stable iron into space.'' \cite{wikife}
+******* Magnesium
+Magnesium is a chemical element with symbol Mg and atomic number 12. It is a shiny gray solid which bears a close physical resemblance to the other five elements in the second column (Group 2, or alkaline earth metals) of the periodic table: all Group 2 elements have the same electron configuration in the outer electron shell and a similar crystal structure.
+Magnesium is the ninth most abundant element in the universe. It is produced in large, aging stars from the sequential addition of three helium nuclei to a carbon nucleus. When such stars explode as supernovas, much of the magnesium is expelled into the interstellar medium where it may recycle into new star systems. Magnesium is the eighth most abundant element in the Earth's crust and the fourth most common element in the Earth (after iron, oxygen and silicon), making up 13% of the planet's mass and a large fraction of the planet's mantle. It is the third most abundant element dissolved in seawater, after sodium and chlorine. \cite{wikimg}
+******* Aluminum 
+Aluminium or aluminum (in North American English) is a chemical element in the boron group with symbol Al and atomic number 13. It is a silvery-white, soft, nonmagnetic, ductile metal. Aluminium is the third most abundant element in the Earth's crust (after oxygen and silicon) and its most abundant metal. Aluminium makes up about 8% of the crust by mass, though it is less common in the mantle below. Aluminium metal is so chemically reactive that native specimens are rare and limited to extreme reducing environments. Instead, it is found combined in over 270 different minerals. The chief ore of aluminium is bauxite.\cite{wikial}
+****** Variables and Constants
+       | Variables | Constants                         |
+       |-----------+-----------------------------------|
+       |           | Amount of hydrochloric acid (5mL) |
+****** Equipment and Supplies
+- 4 test tubes
+- Test tube holder
+- 20 mL hydrochloric acid
+- Some Iron dust
+- Small strip of Aluminium
+- Small strip of Magnesium
+- Small nugget of Zinc
+- Wooden splint
+- Bunsen burner
+- Flint lighter
+****** Procedure
+First we *
+****** Safety Considerations
+       - Getting hydrochloric acid on skin
+       - Burning skin / clothes with bunsen burner
+****** Observations
+ | Metal     | Reactions                                                                  | Gas produced | Reaction? |
+ |-----------+----------------------------------------------------------------------------+--------------+-----------|
+ | Iron      | No reaction 1:30 in, room temp 7:50 in, room temp 10:00                    | No           | None      |
+ | Zinc      | Appears to be dissolving 1:50 in, still room temp 7:21 in, room temp 10:00 | Yes          | Popped    |
+ | Aluminum  | No reaction 2:01 in, room temp 7:35 in, room temp 10:00                    | No           | None      |
+ | Magnesium | Appears to be dissolving 2:21 in, warming up 6:43 in, warm 10:00           | Yes          | Popped    |
+
+******* Elements Ranked by Reactiveness (Most --> Least)
+      Zinc (30) --> Magnesium (12) --> Aluminum (13) --> Iron (26)
+****** Conclusion 
+****** COMMENT References (APA)
+ Just insert citations with org-mode / LaTeX
+
+
+\bibliographystyle{apalike}
+\bibliography{/home/kadin/Documents/library.bib}
+*** TODO Pg 69 2, 4
+*** Exceptions to the Octet Rule
+
+- In some cases, a central atom may have more or less than 8\(e^-\)
+  - Elements before carbon
+    - BeCl2\\
+      \begin{center}
+      \chemfig{Cl-Be-Cl}\\
+      \end{center}
+    - BH3 \\
+      \begin{center}
+      \chemfig{H-[:210]B(-[:150]H)-[:270]H}\\
+      \end{center}
+    - SF6\\
+      \begin{center}
+      \chemfig{F-[:150]S(-[:30]F)(-[:150]F)(-[:270]F)(-[:90]F)-[:210]F}\\
+      \end{center}
+    - PH5 \\
+      \begin{center}
+      \chemfig{H-[:300]P(-[:180]H)(-[:270]H)(-[:60]H)-H}\\
+      \end{center}
+| Chemical name         | Chemical Formula | Structural formula of molecule | Number of single covalent bonds Number of double or triple covalent bonds | Number of lone pairs around each atom | Sketch of molecular shape | Building Molecular Models |
+|-----------------------+------------------+--------------------------------+---------------------------------------------------------------------------+---------------------------------------+---------------------------+---------------------------|
+| nitrogen              | N2               |                                |                                                                           |                                       |                           |                           |
+| water                 | H2O              |                                |                                                                           |                                       |                           |                           |
+| carbon dioxide        | CO2              |                                |                                                                           |                                       |                           |                           |
+| propane               | C3H8             |                                |                                                                           |                                       |                           |                           |
+| ammonia               | NH3              |                                |                                                                           |                                       |                           |                           |
+| silicon tetrachloride | SiCl4            |                                |                                                                           |                                       |                           |                           |
+| ethanol               | C2H5OH           |                                |                                                                           |                                       |                           |                           |
+*** Chemical Reactions
+1. \ce{2Mg(s) + O2(g) -> 2MgO(s)}
+2. \ce{2NaClO3(s) + Heat -> 2Na(s) + Cl2(g) + 3O2(g)}
+3. \ce{2Al(s) + 3H2SO4(aq) -> 3H2 + Al2(SO4)3}
+4. \ce{2C6H14 + 19O2 -> 12CO2 + 14H2O}
+5. \ce{2Zn + Hg(NO3)2 -> 2Zn(NO3) + Hg}
+6. 
+7. 
+8. 
+9. 
+10. 
+*** SCH3U Types of Chemical Reactions M. Lang
+    <2016-10-27 Thu>
+**** Observation Table
+
+ | Reaction # | Reactants                         | Physical Description       | Predicted Names | Observations                                                     |
+ |------------+-----------------------------------+----------------------------+-----------------+------------------------------------------------------------------|
+ |          1 | Cu (wire), AgNO3 (Silver Nitrate) | Solid, Brown, Clear Liquid | CuNO4 + Ag      | Turned White, forming crystals, turning grey                     |
+ |          2 | PbNO3 KI                          |                            | PbI + KNO3      | Turned Yellow                                                    |
+ |          3 | Mg                                | Solid, Grey                | MgO             | Burned bright white                                              |
+ |          4 | CH3OH                             | Clear Liquid               | CO2 + H2O       | Burned Blue, then more and more Orange                           |
+ |          5 | Zn S                              | Solid, Grey, Fine          | ZnS             | Burned greenish blue, left behind orange-white powder            |
+ |          6 | H2O Ca                            | Solid, Grey Pebble         | CaO + H2        | Popped                                                           |
+ |          7 | S H2O                             | Clear                      | H2 + O2 + S     | Popping at negative, twice as full. Relights splint at positive. |
+ |          8 | H2O2 MgO                          | Solid, Grey, Pebble        | MgO2 + H2O      | Relit splint                                                     |
+ |          9 | (NH4)2Cr2O7                       | Orange Crystals            | CrO3 + N2 + H2O | Forms green powder                                               |
+
+**** Word Equations
+
+*** Flame Lab
+<2016-10-29 Sat>
+
+| Element    | Flame Colour |
+|------------+--------------|
+| Barium     | Pale Green   |
+| Calcium    | Orange-Red   |
+| Strontium  | Red          |
+| Lithium    | Red          |
+| Potassium  | Pink         |
+| Copper(II) | Blue-Green   |
+
+1. Copper(II)
+
+2. Lithium
+
+3. Lithium, Strontium, Potassium, Calcium, Barium, Copper(II)
+
+4. Different chemicals burning
+
+** English
+*** Daily Journal
+
+<2016-09-07 Wed>
+
+If you could force someone very rich to pump enourmous amounts of money into one single cause, what would it be and why?
+
+=I would make someone very rich to pump enourmous amounts of money into solving world hunger, because it is easily solvable but no one wants to put the required money in.=
+
+\noindent<2016-09-09 Fri>
+
+If you were to name the one possession that means the most to you, what would it be?
+
+=It would be my computer, because it has allowed to me find what I love to do, and have a solid grasp on what I want to do in the future.=
+
+\noindent<2016-09-12 Mon>
+
+If you could communicate with any type of animal, what would it be and why?
+
+=If I could communicate with any type of animal I would communicate with dogs, because they are always full of energy and want to play.=
+
+
+\noindent<2016-09-13 Tue>
+
+If you had the gift of magic for one day what would you do?
+
+=I would magically teleport to all of the places I want to see=
+
+
+\noindent<2016-09-15 Thu>
+
+If you could enact one law that applied only to your family...
+
+=I would enact a law that says no farting! That's just gross.=
+
+
+\noindent<2016-09-16 Fri>
+
+If you could have one miracle performed today, what would it be and why? 
+
+=I would have the cure for cancer found. I believe that too many lives are taken by cancer.=
+
+\noindent<2016-09-19 Mon>
+
+If you could have one person stop by for a visit who would you want it to be and why?
+
+=I would have Stephen Hawking stop by because I think he's a pretty cool dude.=
+
+
+\noindent<2016-09-20 Tue>
+
+If you were to recall your worst travel experience, what would it be and why?
+
+=Flying to Florida, was sitting next to someone who was extremely airsick. It was pretty gross.=
+
+\noindent<2016-09-21 Wed>
+
+If you were to pick a favorite subject, what would it be and why?
+
+=My favorite subject would be Computer Science, because it is the profession I would like to go into and one of my favorite hobbies.=
+
+\noindent<2016-09-22 Thu>
+
+If you were to pick a favorite color, what would it be and why?
+
+=My favorite color would be orange, because it is a bright color=
+
+\noindent<2016-09-23 Fri>
+
+If you had to name one area of your life that you are the least self disciplined in, what would it be and why?
+
+=It would be sleep, because no matter how hard I try I can never go to sleep on time.=
+
+\indent<2016-09-26 Mon>
+
+If you had one thing you value above everything else...
+
+=Sleep, I need my 8 hours of coma to function every day=
+
+\indent<2016-10-05 Wed>
+
+If you had to choose a favourite book series, what would it be and why?
+
+=It would be A Court of Thorns and Roses, because I love the way to story was written and I like the author.=
+
+\indent<2016-10-06 Thu>
+
+If you had to choose between infinite money and infinite fame, which would it be and why?
+
+=It would be infinite money because I don't want to be famous, too many people scrutinizing everything you do.=
+*** Poetry 
+**** Journal Question 
+
+Do you think that you can enjoy reading and writing poems? Why or why not?
+
+=I think that I can enjoy reading poems, I'm not sure how much I would enjoy writing poems. I would enjoy reading poems because I appreciate the effort that goes into them andthe rhythm of the poem, but I wouldn't enjoy writing them because I'm not a very rhythmic person so it would be difficult.= 
+
+\noindent Do you think it is important to learn about poetry? Why or why not? 
+
+=I don't think it is important to learn about poetry because if you don't learn about it, it generally won't affect you unless you want to be an english major.=
+**** Introduction to Poetry
+  <2016-09-13 Tue>
+
+Alliteration - Repetition _initial sound_ two or more words 
+
+Onomatopoeia - Words that sound like what they describe, eg. crack, hiss, pop
+
+Simile - A comparison of unrelated things using like or as eg. Joe is hungry _as_ a bear
+
+Metaphor - Implied comparison of unrelated things eg. Lenny _is_ a snake
+
+Hyperbole - An exaggeration for emphasis eg. I may sweat to death.
+**** IN Just
+<2016-09-15 Thu>
+
+What - A poem about a lame, queer baloonMan
+
+Subject, Matter, Theme - Springtime, children playing
+
+What is the poem about? - Baloon man, children playing, baloon man luring children away from what they are doing.
+
+Rushes on names, names don't matter as long as it implys they are children
+
+Tone - Diction is very happy, with the notable exception of goat-footed, which could refer to someone being evil, or it could just be him walking around a lot.
+
+What ideas is the poet expressing?
+
+What images/words, symbols, does the poet use to convey and reinforce his/her ideas? 
+
+goat-footed - mean, strange, bad, goat carrying his baloons?
+
+far and wee - uses happy diction
+
+BaloonMan whistles a lot, attracts the children for his baloon business
+
+puddle-wonderful - Springtime, playing out in the puddles 
+
+gives mud and puddles positive attributes
+
+Two seperate stanzas of children coming to buy baloons
+
+Emphasis on spring
+**** DONE In Just Homework
+     DEADLINE: <2016-09-16 Fri>
+     What --> Structure, Tone, Mood, Lang -- Imagery, Structure -- Stanzas, Rhyme
+**** E.E. Cummings Poem 
+
+#+BEGIN_VERSE
+The Eagle
+
+1
+
+It was one of those clear,sharp.mustless days
+        That summer and man delight in.
+Never had Heaven seemed quite so high,
+Never had earth seemed quite so green,
+Never had the world seemed quite so clean
+Or sky so nigh.
+        And I heard the Deity’s voice in
+
+  The sun’s warm rays,
+        And the white cloud’s intricate maze,
+And the blue sky’s beautiful sheen.
+
+         2
+
+I looked to the heavens and saw him there,—
+        A black speck downward drifting,
+Nearer and nearer he steadily sailed,
+Nearer and nearer he slid through space,
+In an unending aerial race,
+       This sailor who hailed
+       From the Clime of the Clouds.—Ever shifting,
+
+  On billows of air
+        And the blue sky seemed never so fair,
+And the rest of the world kept pace.
+
+         3
+
+On the white of his head the sun flashed bright;
+        And he battled the wind with wide pinions,
+Clearer and clearer the gale whistled loud,
+Clearer and clearer he came into view,—
+Bigger and blacker against the blue.
+        Then a dragon of cloud
+        Gathering all its minions
+            Rushed to the fight,
+        And swallowed him up in a bite;
+And the sky lay empty clear through.
+
+         4
+
+Long I watched.   And at last afar
+        Caught sight of a speck in the vastness;
+Ever smaller,ever decreasing,
+Ever drifting,drifting awayInto the endless realms of day;
+        Finally ceasing.
+        So into Heaven’s vast fastness
+           Vanished that bar
+Of black,as a fluttering star
+Goes out while still on its way.
+
+         5
+
+So I lost him.   But I shall always see
+            In my mind
+The warm,yellow sun,and the ether free;
+The vista’s sky,and the white cloud trailing,
+        Trailing behind,—
+And below the young earth’s summer-green arbors,
+And on high the eagle,—sailing,sailing
+        Into far skies and unknown harbors
+#+END_VERSE
+
+Structure\\
+Literary devices\\
+Stylistic devices
+
+1. Imagery
+
+  -  It was one of those clear, sharp, mustless days
+  -  Never had earth seemed quite so green
+  -  Never had the earth seemed quite so clean
+  -  The sun’s warm rays,
+  -  And the white cloud’s intricate maze,
+  -  And the blue sky’s beautiful sheen.
+  -  A black speck downward drifting,
+  -  And the blue sky seemed never so fair,
+  -  On the white of his head the sun flashed bright;
+  -  The warm,yellow sun,and the ether free;
+  -  The vista’s sky,and the white cloud trailing,
+  -  And below the young earth’s summer-green arbors,
+  -  And on high the eagle,—sailing,sailing
+
+2. Indentation
+  -  It was one of those clear,sharp.mustless days
+  -  That summer and man delight in.
+
+     Never had
+     Nearer and nearer
+     Clearer and clearer
+     And the
+     Rhymes
+     LOTS of Anaphora
+**** My Own Poem
+<2016-09-21 Wed>
+
+#+BEGIN_VERSE
+Walking and
+walking through sing-
+ing weeds and dancing
+    shrubs that 
+tickle feet and prick at
+legs,
+
+walking through
+  pain 
+    and observing 
+        beauty.
+#+END_VERSE 
+
+***** Devices
+I used indentation in my poem to structure the flow of the poem, make some parts faster than others, and to highlight the more important details of the poem.\\
+I used imagery to make the image more clear in the readers mind and to lighten the overall mood of the beginning of the poem, before delivering the actual message of the poem.\\
+I made the poem a metaphor for finding the good things in life, even if it's not going your way. \\
+**** The Sonnet
+<2016-09-21 Wed>
+
+- Usually about love --> later religion
+- Originated in Italy
+- 14 lines - Follows a strict rhyme scheme
+- Couplet\\
+    Two successive lines of poetry that are similar in both metre and rhyme
+- Quatrain\\
+    Four line stanza
+- Sestet\\
+    Six line stanza
+- Octave\\
+    Eight line stanza
+***** Petrarchan (Italian)
+abbaabba^{(8)}\\
+turn\\
+cdecde^{(6)}\\
+cdcdcd^{(6)}
+***** Shakespearean (English)
+ababcdcdefef(turn)gg^{(14)}
+***** Spencerian (Elizabethan)
+ababbcbccdcd(turn)ee^{(14)}
+**** The Ballad
+- A poem / song that tells a story in a simple, yet dramatic way
+- Begins with a climactic episode (usually)
+- Expresses the narrators personal attitude or feelings
+- May be written in the 1st _or_ 3rd person
+- Often have cliched phrases
+- Natural conversational tone (informal diction)
+- Typical rhyme scheme: abcb _or_ abab
+**** Finish Lochinvar Questions
+     
+**** Love Me, Love My Dog
+     
+***** Definitions
+
+- Rapier
+  A thin, light, sharp-pointed sword used for thrusting
+- Chieftain
+  The leader or a head of a group, especially of a clan or tribe.
+- Coif 
+  Tight-fitting cap under a veil
+- Damask
+  A rich patterned fabric
+- Supple
+  Readily bent, pliant
+- Tire 
+  Like a tiara
+- Uncouth
+  Crude, unrefined
+- Sinewy
+  Lean and muscular
+
+***** Assignment
+      
+1) A ballad tells a dramatic story in a simple, direct style. Briefly summarize the story/plot presented in this ballad.
+2) Many traditional ballads begin with a climactic episode and then briefly sketch the setting, action, and people involved. Read the ballad again and describe whether the poet has structured her narrative in this manner.
+3) a) Label the rhyme scheme for stanzas 1-3 directly on the poem. Is there a pattern?
+   b) Typically ballads have a rhyme scheme of abcb. Does "Love Me, Love My Dog" follow this rhyme scheme/pattern? If not, what is the rhyme scheme of this ballad?
+4) Ballads are typically told from either first or third person point of view. Does this ballad contain either form of point of view? Which one is used?
+5) a) Locate five (5) to eight (8) different literary/poetic devices we reviewed.
+   b) Use a different coloured highlighter to identify each of them and then label then with the device you believe to be at work in the poem.
+   c) Create a legend for the colours you choose to highlight each device with.
+
+*** Short Stories
+**** What is a theme?
+<2016-10-05 Wed>
+
+- The author's message to the reader
+- A universal, general truth about life, or human nature
+- A reflection about some important aspect of life
+- Should be a full sentence
+- Does *NOT* mention the work or characters you are studying
+- Is *NOT* a summary of the plot
+- *NOT* a cliche
+**** Theme of "A Sick Child"
+**** Gender Stereotype
+- Over generalizations about the characteristics of an entire group based on gender.
+- Can have both negative + positive connotations
+
+| Female                            | Male                               |
+|-----------------------------------+------------------------------------|
+| Girls are clean & smell nice (\+) | Men are stronger (than woman) (\+) |
+| Women are the cooks   (-)         | Men are the providers  (-)         |
+| Better caregivers (+)             | Lack emotional awareness (-)       |
+| Women weak (-)                    |                                    |
+**** A Sick Call Questions
+2.  
+**** The Painted Door
+<2016-10-11 Tue>
+
+As you read you need to make notes on the story, _on_ the story or on a separate page, on the following:
+
+- Characters
+  - John
+  - Ann
+  - Steven
+- Setting
+  - 1930s
+  - Saskatchewan
+  - Winter
+  - November
+  - Storm
+- P.O.V
+- Conflict (3) 
+  - 6 types
+    - 5 external
+      - Person vs. Nature
+      - *John vs. Storm*
+      - Person vs. Person
+      - *Ann vs. John*
+      - Person vs. Technology
+      - Person vs. 
+    - 1 internal
+      - Person vs. Self
+      - *Ann vs Ann*
+- Motifs
+  - Repeating "something" in a story
+    - Double-wheeled moon
+    - loneliness
+    - White
+    - Isolation
+    - Silence
+    - Clock Ticking
+    - Fire
+    - Self Doubt
+    - Persistence
+    - Weather
+    - Irony
+- Symbols
+- Theme 
+  - Come up \(\overline{w}\) theme \(\overline{w}\) proof
+  
+***** Symbol Assignment
+<2016-10-12 Wed>
+
+1. 
+   - 
+   - 
+   - 
+2. 
+   - 
+   - 
+   - 
+3. 
+   - 
+   - 
+   - 
+4. 
+   - 
+   - 
+   - 
+5. 
+   - 
+   - 
+   - 
+6. 
+   - 
+   - 
+   - 
+7. 
+   - 
+   - 
+   - 
+8. 
+   - 
+   - 
+   - 
+9. 
+   - 
+   - 
+   - 
+10. 
+    - 
+    - 
+    - 
+**** Literary Terms
+<2016-10-17 Mon>
+
+- Irony : When the opposite of what is expected to happen occurs.o
+  - Situational
+    - What *happens* is not what we expect
+    - E.g. Teacher fails a test, fire hall burns down
+  - Verbal
+    - Something is said, but we mean the opposite (or something different)
+    - Contradiction
+    - E.g. clear as mud, lovely weather today
+  - Dramatic
+    - The reader knows something that the character(s) do not.
+    - The reader is aware of the irony and the character is unaware
+    - E.g. Breaking Bad, cop is looking for a meth dealer, it's his brother-in-law.
+    - E.g. Toy Story, Humans don't know toys are 'real'
+- Metonymy : A thing or concept is called _NOT_ by what it is but by the name of something associated with it.
+  - E.g. Bow down to the _crown_
+  - E.g. Get your _wheels_ and pick me up at 7
+**** Metonymy, or the Husband's Revenge
+<2016-10-17 Mon>
+
+- Characters
+  - Husband
+  - Young Wife
+  - Sergeant
+  - Mailman
+  - Narrator
+- Pov
+  - First Person
+- Tone
+  - Curious
+  - Suspicious
+  - Ironic
+- Conflicts
+  - PvP - Husband vs. Wife
+  - PvP - Husband vs. Sergeant
+  - PvS - Husband vs. Self
+- Motifs
+  - Relationships
+  - Irony
+  - Fate
+  - Pain
+- Symbols
+  - Letters
+***** Examples of Irony in the story
+      - She now found her sickly,  prematurely old husband a burden and a bore =Ironic because he married her when she was "ugly" and didn't care, but she betrayed him because he was sickly.=
+      - He had given her chest during their honeymoon, saying, "Keep your secrets here." and the ungrateful girl had obeyed him. =Keep your secrets here - chest was a wedding gift.=
+      - Secrets Chest =He had a duplicate key=
+      - Shooting in the grocery store =Chose to commit the crime in a store full of customers=
+      - No, Chief, it wasn't her lover. It was the mailman."
+      - For five months the poor fellow twisted the poisoned dagger of jealouslu inside his own thin,
+      - When I saw the wretch appear =Mailman, not the wife or sergeant=
+      - It's only after the sergeant _leaves_ that the wife becomes sad - that her husband became suspicious. =She becomes sad when he leaves and the husband figures it out after the man is gone=
+      - "Illustrious Latin proffessor came to her rescue"
+      - Shot innocent mailman - did nothing to wife or lover
+      - "You may call the police"
+      - "Why should I want to kill my wife?" =Because she cheated on you=
+      - "I felt terrible, worse than my wife"
+      - "She's all I have.." =Married her because she was none of those things=
+***** Examples of Metonymy in the story:
+      - "It's the telephone in the hall"
+      - "Chest Unbuttoned"
+      - The Sparkling Cup
+      - "I hate her for it" (Phone)
+      - Shooting the mailman
+***** Metonymy 
+      - A word or phrase that _symbolically_ stands for something else
+      - "The pen is mightier than the sword"
+      - Bow to the crown
+***** Synecdoche
+      - When _part of_ something _refers to the whole_ of something or vice versa.
+      - Boards for stage
+      - Wheels for car
+      - Boots for soldiers
+      - Bread & Butter
+      - Lend me your ears
+ #  LocalWords:  PvP PvS Synecdoche
+**** DONE Culminating
+     CLOSED: [2016-10-27 Thu 09:45] DEADLINE: <2016-10-24 Mon>
+***** Rubric / Planning
+ Character
+ - Anne
+ Trait 1 - Loneliness
+ - ``Pay no attention to me. Seven years a farmer's wife - it's time I was used to staying alone.''
+ - ``That's all I need - someone to talk to. John never talks''
+ - 
+ Trait 2 - Selfishness
+ - ``It isn't right to leave me here alone. Surely I'm as important as your father.''
+ - 
+ - 
+ Trait 3 - Stubbornness
+ - ``I know - I'm not really afraid.''
+ - ``But he always came,'' etc.
+ - ``Pay no attention to me. It's ten miles there and back so you'd better get started.''
+****** Introduction
+ - Naming the chosen character
+   The person I have chosen to do is Anne.
+ - You may use "I" first person pronouns
+ - Book title and author
+   The title of the book is ``The Painted Door'' by Sinclair Ross
+ - Short description of the character
+   Anne is the wife of John, a farmer. 
+ - Conflicts (brief summary)
+ - Your general feelings about the character
+ - *THESIS STATEMENT* (Including *three* outstanding characteristics - either good or bad)
+****** Paragraph 1
+ - Includes a topic sentence - introducing the first character trait
+ - Uses a variety of characterization methods
+ - Minimum of *two* incidents from the plot reinforcing the chosen trait
+ - Uses at least *two* quotations that demonstrate the trait
+ - Includes a concluding sentence
+****** Paragraph 2 
+ - Includes a topic sentence - introducing the second character trait
+ - Uses a variety of characterization methods
+ - Minimum of *two* incidents from the plot reinforcing the chosen trait
+ - Uses at least *two* quotations that demonstrate the trait
+ - Includes a concluding sentence
+****** Paragraph 3
+ - Includes a topic sentence - introducing the third character trait
+   
+ - Uses a variety of characterization methods
+ - Minimum of *two* incidents from the plot reinforcing the chosen trait
+ - Uses at least *two* quotations that demonstrate the trait
+ - Includes a concluding sentence
+****** Conclusion
+ - Restates Thesis Statement
+ - Reveals the outcome of the story and your character's role in it
+ - Personal reaction to the story, as a whole
+ - General statement about the character/story
+
+******* Quoting 
+- (Last Name Pg\#)
+- "''" Dialog in quote
+- "".
+- "",
+- "?"
+- "!"
+
+**** Short Story Test
+***** Short Answer
+- Theme
+- Similarities between 'TPD' and 'Met"
+- Irony - "Met"
+- Imagery - "A Sick Call"
+- Gender Stereotyping - "A Sick Call"
+***** Matching
+- Literary Terminology
+***** Symbols
+- Chart
+
+| Symbol | Story | Meaning |
+|--------+-------+---------|
+|        |       |         |
+
+*** Shakespeare
+<2016-10-26 Wed>
+
+   | Tragedy                                                       | Comedy                                                             |
+   |---------------------------------------------------------------+--------------------------------------------------------------------|
+   | Simply - Protagonist Dies                                     | Simple terms play ends happily for protagonists                    |
+   | Tragic Flaw -> "hamartia" - Am excess of some character trait | Usually a mix-up in events, confused identities, disguises         |
+   | Essential good is wasted                                      | Nick of time, something happens, someone appears and saves the day |
+   | Starts happy ends sad                                         |                                                                    |
+*** Othello
+<2016-10-26 Wed>
+
+1. What rules dictate the behaviour of young men and women in relationships today?
+No cheating, 
+2. Name a situation in which the "rules" have clearly been violated. That is, what are things "nice girls" just don't do? What are things "nice boys" just don't do?
+When a "nice girl" or a "nice guy" cheats on their significant other.
+3. Why do these rules exist? Do you think they just apply locally or even just in your school? What are the possible consequences of breaking these rules?
+These rules exist because 
+4. Have you ever encountered a situation where one person in a relationship is ignoring the rules and treating the other person poorly? If so, what did you do? If not, what would do you if you were to experience this?
+I have never encountered this situation, though hypothetically if I was the one involved in the relationship I would probably break it off and stop seeing the other person.
+
+<2016-10-27 Thu>
+
+- Heroic Couplet
+A heroic couplet is a traditional form of English poetry, commonly used in epic and narrative poetry, and consisting of a rhyming pair of lines in iambic pentameter. 
+- Iambic Pentameter
+Iambic pentameter is a commonly used type of metrical line in traditional English poetry and verse drama. The term describes the rhythm that the words establish in that line, which is measured in small groups of syllables called "feet". The word "iambic" refers to the type of foot that is used, known as the iamb, which in English is an unstressed syllable followed by a stressed syllable. The word "pentameter" indicates that a line has five of these "feet".
+- Rhyming Couplet
+Rhyming couplets are one of the simplest rhyme schemes in poetry. Because the rhyme comes so quickly, it tends to call attention to itself. Good rhyming couplets tend to "explode" as both the rhyme and the idea come to a quick close in two lines.
+- Soliloquy
+A soliloquy is a device often used in drama when a character speaks to himself or herself, relating thoughts and feelings, thereby also sharing them with the audience, giving off the illusion of being a series of unspoken reflections. If other characters are present, they keep silent and/or are disregarded by the speaker.
+- Asides
+An aside is a dramatic device in which a character speaks to the audience. By convention the audience is to realize that the character's speech is unheard by the other characters on stage. It may be addressed to the audience expressly (in character or out) or represent an unspoken thought.
+- Concealment
+Hiding (also called abscondence or concealment) is obscuring something from view or rendering it inconspicuous.
+- Tragic Flaw
+Tragic flaw is a literary device that can be defined as a trait in a character leading to his downfall and the character is often the hero of the literary piece. This trait could be the lack of self-knowledge, lack of judgment and often it is hubris (pride).
+- Hamartia
+The term hamartia means "to miss the mark" or "to err". It is most often associated with Greek tragedy, although it is also used in Christian theology. Hamartia as it pertains to dramatic literature was first used by Aristotle in his Poetics. In tragedy, hamartia is commonly understood to refer to the protagonist’s error or flaw that leads to a chain of plot actions culminating in a reversal from their good fortune to bad. 
+- Pathos
+Pathos represents an appeal to the emotions of the audience, and elicits feelings that already reside in them. Pathos is a communication technique used most often in rhetoric (where it is considered one of the three modes of persuasion, alongside ethos and logos), and in literature, film and other narrative art.
+- Catharsis
+Catharsis is the purification and purgation of emotions—especially pity and fear—through art or any extreme change in emotion that results in renewal and restoration. It is a metaphor originally used by Aristotle in the Poetics, comparing the effects of tragedy on the mind of a spectator to the effect of a cathartic on the body. 
+- Antithesis
+Antithesis is used in writing or speech either as a proposition that contrasts with or reverses some previously mentioned proposition, or when two opposites are introduced together for contrasting effect. Antithesis can be defined as "a figure of speech involving a seeming contradiction of ideas, words, clauses, or sentences within a balanced grammatical structure. Parallelism of expression serves to emphasize opposition of ideas". 
+- Irony (situational, verbal)
+Situational irony is most broadly defined as a situation where the outcome is incongruous with what was expected, but it is also more generally understood as a situation that includes contradictions or sharp contrasts.
+- Tragic Irony
+A disparity of awareness between actor and observer: when words and actions possess significance that the listener or audience understands, but the speaker or character does not; for example when a character says to another "I'll see you tomorrow!" when the audience (but not the character) knows that the character will die before morning. It is most often used when the author causes a character to speak or act erroneously, out of ignorance of some portion of the truth of which the audience is aware. In tragic irony, the audience knows the character is making a mistake, even as the character is making it. 
+- Fate or Destiny
+Destiny or fate is a predetermined course of events. It may be conceived as a predetermined future, whether in general or of an individual.
+- Symbol
+A symbol is a sign that represents, stands for or suggests another idea, visual image, belief, action or material entity. Symbols take the form of words, sounds, gestures, ideas or visual images and are used to convey other ideas and beliefs.
+- Foreshadowing
+Foreshadowing or guessing ahead is a literary device by which an author hints what is to come. Foreshadowing is a dramatic device in which an important plot-point is mentioned early in the story and will return in a more significant way. It is used to avoid disappointment. It is also sometimes used to arouse the reader.
+- Self-determination
+Making decisions that affect your own outcome.
+- Pun
+The pun, also called paronomasia, is a form of word play that suggests two or more meanings, by exploiting multiple meanings of words, or of similar-sounding words, for an intended humorous or rhetorical effect. These ambiguities can arise from the intentional use of homophonic, homographic, metonymic, or figurative language.
+- Synecdoche
+A synecdoche is a figure of speech in which a term for a part of something refers to the whole of something or vice versa.
+- Metonymy
+Metonymy is a figure of speech in which a thing or concept is called not by its own name but rather by a metonym, the name of something associated in meaning with that thing or concept.
+
+*** Novels
+**** Frankenstein (Novel Study)
+**** One Flew Over the Cuckoos Nest (ISU)
+
+***** TODO Cuckoos Nest Essay
+      DEADLINE: <2016-12-20 Tue>      
+      
+* To do list
+** DONE File Andson Documents
+** TODO Get Boogieboard Sync
+** Chemistry Questions
+** DONE Sonnet 29 Question
+   DEADLINE: <2016-09-22 Thu>
+
+* Code testing
+\begin{tikzpicture}
+\begin{axis}[axis lines = middle,smooth,xlabel = $t$ (\si{\s}), ylabel =$y$ (\si{\m}), minor tick num =1, grid=both, no markers]
+\addplot +[ 
+    domain=0:20,
+    range=0:100,
+    samples=10000,
+    color=red,
+]
+{10*x^2 + 2*x + 5};
+\end{axis}
+\end{tikzpicture}
+
+\begin{tikzpicture}
+    % Draw the first line with absolute coordinates and the 
+    % second with relative coordinates to the first line
+    \draw (0,0) -- (-60:3cm) -- ++(-120:3cm) -- ++(60:3cm);
+\end{tikzpicture}
+
+\begin{tikzpicture}[thick]
+\coordinate (O) at (0,0);
+\coordinate (A) at (4,0);
+\coordinate (B) at (0,2);
+\draw (O)--(A)--(B)--cycle;
+
+\tkzLabelSegment[below=2pt](O,A){\textit{adjacent leg}}
+\tkzLabelSegment[left=2pt](O,B){\textit{opposite leg}}
+\tkzLabelSegment[above right=2pt](A,B){\textit{hypotenuse}}
+
+\tkzMarkAngle[fill= orange,size=0.65cm,%
+opacity=.4](A,O,B)
+\tkzLabelAngle[pos = 0.35](A,O,B){$\gamma$}
+
+\tkzMarkAngle[fill= orange,size=0.8cm,%
+opacity=.4](B,A,O)
+\tkzLabelAngle[pos = 0.6](B,A,O){$\alpha$}
+
+\tkzMarkAngle[fill= orange,size=0.7cm,%
+opacity=.4](O,B,A)
+\tkzLabelAngle[pos = 0.5](O,B,A){$\beta$}
+
+
+\end{tikzpicture}
+\end{document}
+#  LocalWords:  Pov
+
+#  LocalWords:  Metonymy
+
+\bibliography{/home/kadin/Documents/everything.bib}
