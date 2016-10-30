@@ -1,6 +1,5 @@
 #+TITLE: School Work 
 #+OPTIONS: toc:nil num:nil 
-#+LATEX_HEADER: \usepackage{stackengine}
 #+LATEX_HEADER: \usepackage{pdflscape}
 #+LATEX_HEADER: \usepackage[version=4]{mhchem}
 #+LATEX_HEADER: \usepackage{rotating}
@@ -10,7 +9,6 @@
 #+LATEX_HEADER: \usepackage[margin=1in]{geometry}
 #+LATEX_HEADER: \usepackage{amsmath}
 #+LATEX_HEADER: \usepackage{calc}
-#+LATEX_HEADER: \usepackage{cite}
 #+LATEX_HEADER: \usepackage{bohr}
 #+LATEX_HEADER: \usepackage{tikz}
 #+LATEX_HEADER: \usepackage{siunitx}
@@ -970,12 +968,16 @@ First we *
        - Getting hydrochloric acid on skin
        - Burning skin / clothes with bunsen burner
 ****** Observations
- | Metal     | Reactions                                                                  | Gas produced | Reaction? |
- |-----------+----------------------------------------------------------------------------+--------------+-----------|
- | Iron      | No reaction 1:30 in, room temp 7:50 in, room temp 10:00                    | No           | None      |
- | Zinc      | Appears to be dissolving 1:50 in, still room temp 7:21 in, room temp 10:00 | Yes          | Popped    |
- | Aluminum  | No reaction 2:01 in, room temp 7:35 in, room temp 10:00                    | No           | None      |
- | Magnesium | Appears to be dissolving 2:21 in, warming up 6:43 in, warm 10:00           | Yes          | Popped    |
+ | Metal     | Reactions                                | Gas produced | Reaction? |
+ |-----------+------------------------------------------+--------------+-----------|
+ | Iron      | No reaction 1:30 in, room temp 7:50 in,  | No           | None      |
+ |           | room temp 10:00                          |              |           |
+ | Zinc      | Appears to be dissolving 1:50 in,        | Yes          | Popped    |
+ |           | still room temp 7:21 in, room temp 10:00 |              |           |
+ | Aluminum  | No reaction 2:01 in, room temp 7:35 in,  | No           | None      |
+ |           | room temp 10:00                          |              |           |
+ | Magnesium | Appears to be dissolving 2:21 in,        | Yes          | Popped    |
+ |           | warming up 6:43 in, warm 10:00           |              |           |
 
 ******* Elements Ranked by Reactiveness (Most --> Least)
       Zinc (30) --> Magnesium (12) --> Aluminum (13) --> Iron (26)
@@ -983,9 +985,8 @@ First we *
 ****** COMMENT References (APA)
  Just insert citations with org-mode / LaTeX
 
+\bibliography{bib}
 
-\bibliographystyle{apalike}
-\bibliography{/home/kadin/Documents/library.bib}
 *** TODO Pg 69 2, 4
 *** Exceptions to the Octet Rule
 
