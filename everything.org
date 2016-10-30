@@ -1,5 +1,6 @@
 #+TITLE: School Work 
 #+OPTIONS: toc:nil num:nil 
+#+BIBLIOGRAPHY: bib apalike
 #+LATEX_HEADER: \usepackage{pdflscape}
 #+LATEX_HEADER: \usepackage[version=4]{mhchem}
 #+LATEX_HEADER: \usepackage{rotating}
@@ -17,17 +18,6 @@
 #+LATEX_HEADER: \usepackage{tkz-euclide}
 #+LATEX_HEADER: \usetkzobj{all}
 #+SETUPFILE: theme-bigblow.setup
-
-* Timetable
-
-  |--------+------+-----------+------+-----------|
-  | Period | Room | Day 1     | Room | Day 2     |
-  |--------+------+-----------+------+-----------|
-  |      1 |  122 | TGP3M1-01 |  305 | SPH3U1-01 |
-  |      2 |  305 | SPH3U1-01 |  122 | TGP3M1-01 |
-  |      3 |  308 | SCH3U1-01 |  322 | ENG3U1-02 |
-  |      4 |  322 | ENG3U1-02 |  308 | SCH3U1-01 |
-  |--------+------+-----------+------+-----------|
 
 * School
 ** Photography
@@ -948,9 +938,10 @@ Magnesium is the ninth most abundant element in the universe. It is produced in 
 ******* Aluminum 
 Aluminium or aluminum (in North American English) is a chemical element in the boron group with symbol Al and atomic number 13. It is a silvery-white, soft, nonmagnetic, ductile metal. Aluminium is the third most abundant element in the Earth's crust (after oxygen and silicon) and its most abundant metal. Aluminium makes up about 8% of the crust by mass, though it is less common in the mantle below. Aluminium metal is so chemically reactive that native specimens are rare and limited to extreme reducing environments. Instead, it is found combined in over 270 different minerals. The chief ore of aluminium is bauxite.\cite{wikial}
 ****** Variables and Constants
-       | Variables | Constants                         |
-       |-----------+-----------------------------------|
-       |           | Amount of hydrochloric acid (5mL) |
+       | Variables          | Constants                         |
+       |--------------------+-----------------------------------|
+       | Gas Produced (Y/N) | Amount of hydrochloric acid (5mL) |
+The amount of hydrochloric acid is constant because different amounts might influence whether or not gas is produced.
 ****** Equipment and Supplies
 - 4 test tubes
 - Test tube holder
@@ -982,11 +973,9 @@ First we *
 ******* Elements Ranked by Reactiveness (Most --> Least)
       Zinc (30) --> Magnesium (12) --> Aluminum (13) --> Iron (26)
 ****** Conclusion 
-****** COMMENT References (APA)
- Just insert citations with org-mode / LaTeX
 
+\bibliographystyle{plain}
 \bibliography{bib}
-
 *** TODO Pg 69 2, 4
 *** Exceptions to the Octet Rule
 
@@ -1742,52 +1731,3 @@ Metonymy is a figure of speech in which a thing or concept is called not by its 
 ** DONE Sonnet 29 Question
    DEADLINE: <2016-09-22 Thu>
 
-* Code testing
-\begin{tikzpicture}
-\begin{axis}[axis lines = middle,smooth,xlabel = $t$ (\si{\s}), ylabel =$y$ (\si{\m}), minor tick num =1, grid=both, no markers]
-\addplot +[ 
-    domain=0:20,
-    range=0:100,
-    samples=10000,
-    color=red,
-]
-{10*x^2 + 2*x + 5};
-\end{axis}
-\end{tikzpicture}
-
-\begin{tikzpicture}
-    % Draw the first line with absolute coordinates and the 
-    % second with relative coordinates to the first line
-    \draw (0,0) -- (-60:3cm) -- ++(-120:3cm) -- ++(60:3cm);
-\end{tikzpicture}
-
-\begin{tikzpicture}[thick]
-\coordinate (O) at (0,0);
-\coordinate (A) at (4,0);
-\coordinate (B) at (0,2);
-\draw (O)--(A)--(B)--cycle;
-
-\tkzLabelSegment[below=2pt](O,A){\textit{adjacent leg}}
-\tkzLabelSegment[left=2pt](O,B){\textit{opposite leg}}
-\tkzLabelSegment[above right=2pt](A,B){\textit{hypotenuse}}
-
-\tkzMarkAngle[fill= orange,size=0.65cm,%
-opacity=.4](A,O,B)
-\tkzLabelAngle[pos = 0.35](A,O,B){$\gamma$}
-
-\tkzMarkAngle[fill= orange,size=0.8cm,%
-opacity=.4](B,A,O)
-\tkzLabelAngle[pos = 0.6](B,A,O){$\alpha$}
-
-\tkzMarkAngle[fill= orange,size=0.7cm,%
-opacity=.4](O,B,A)
-\tkzLabelAngle[pos = 0.5](O,B,A){$\beta$}
-
-
-\end{tikzpicture}
-\end{document}
-#  LocalWords:  Pov
-
-#  LocalWords:  Metonymy
-
-\bibliography{/home/kadin/Documents/everything.bib}
