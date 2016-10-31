@@ -149,6 +149,17 @@ Developer -> 90sec
 Stop Bath -> 30sec
 Fixer -> 3-4min
 Wash Tray -> 5min
+*** Portfolio Categories
+1. Sports
+2. Studio
+3. Tech
+4. Events (Portraits?)
+5. Nature
+6. People doing things
+7. Special Days - eg. Halloween + Christmas
+8. Theme - Your Choice
+9. Theme - Your Choice
+10. Theme - Your Choice 
 ** Physics
 *** Scientific Notation
 <2016-09-07 Wed> 
@@ -714,7 +725,70 @@ plot -9.892
 *** Component Method (x, y) For Vector Addition
 
 1) Add 40km/h [NE] + 10km/h [W]
+*** Projectile Motion
+ 1. A punter in a football game kicks a ball from the goal line at 60.0\deg from the horizontal at 25.0m/s
+ 
+Convention: \uparrow \rightarrow +
 
+ | X             | Y                          |
+ |---------------+----------------------------|
+ | V_{1x} = 12.5 | V_{1y} = 21.6              |
+ | V_{2x} = 12.5 | V_{2y} = 0 (at max height) |
+ | d_x = 55      | d_y = 23.8                 |
+ | a_x = 0       | a_y = -9.8m/s[\downarrow]  |
+ | t = 4.4       | t = 2.2                    |
+**** Component Method
+     |    X |    Y |
+     |------+------|
+     | 12.5 | 21.6 |
+
+\[\cos \theta = \frac{A}{H}\]
+\[\cos 60 = \frac{X}{25}\]
+\[25 \cos 60 = X\]
+\[\sin \theta = \frac{O}{H}\]
+\[\sin 60 = \frac{Y}{25}\]
+\[25 \sin 60 = Y\]
+**** Solving using Big 5
+\[V_{2y}^2 = V_{1y}^2 + 2_{ay}d_y\]
+\[\frac{0 - 21.6^2}{2(-9.8)} = d\]
+\[d = 23.8\]
+
+\[V_{2y} = V_{1y} + a_yt\]
+\[t = \frac{0 - 21.6}{-9.8}\]
+\[t = 2.2 \] 
+**** Using Symmetry
+\[t_x = 2t_y\]
+\[= 4.4 \]
+
+\[d_x = V_xt\]
+\[=12.5 \cdot 4.4\]
+\[= 55\]
+
+
+*** Test (Cumulative)
+    DEADLINE: <2016-11-04 Fri>
+**** Motion 1D
+***** Horizontal
+| V_1 |
+| V_2 |
+| d   |
+| a   |
+| t   |
+***** Vertical
+**** Motion 2D
+***** Adding Vectors
+****** Displacement 
+
+Solving Triangle or Component Method
+****** Velocity
+
+Solving Triangle or Component Method
+****** Relative Velocity ~ "River Crossing"
+***** Projectile Motion
+****** Horizontal initial velocity
+| V_x = H | V_{1y} = 0 |
+****** Travels up to max height
+****** Starts and ends at the same level
 ** Chemistry
 *** Using the Periodic Table Activity
     <2016-09-09 Fri>
@@ -1716,7 +1790,74 @@ The pun, also called paronomasia, is a form of word play that suggests two or mo
 A synecdoche is a figure of speech in which a term for a part of something refers to the whole of something or vice versa.
 - Metonymy
 Metonymy is a figure of speech in which a thing or concept is called not by its own name but rather by a metonym, the name of something associated in meaning with that thing or concept.
+**** Background Info
+<2016-10-31 Mon>
 
+***** Setting
+1. Venice
+   - Italians were renowned for luxury
+   - Had a strict judicial system (law)
+   - Women were beautiful and passionate
+   - Italians were "wicked and of loose morals"
+2. Cyprus
+   - Island in the Mediterranean Sea
+   - Under the power of the Venetian Government (in the play) *in history this did happen, but not until much later*
+***** Intermingling of Religions
+- Muslim & Western Culture
+- Obvious *threads of hostility* between the Christians and the Muslims (written a century after Muslims were driven out of Spain)
+- Also shown between conflict with Venice and Turks
+- Christian Venetians want to protect Christianity from the influence of the Muslim Turks
+- *Ironically - Othello is the one sent to complete this mission on behalf of the Christians (this is ironic because Othello is of African descent and thus, one assumes he is Muslim - because most of Africa at the time was Muslim - but he's not, he's Christian)
+***** Very Small Cast of Characters
+- Doesn't deviate from the main plot line very much
+- Has very few (but poignant) motifs and is therefore very intense and focused
+  - Jealousy, Revenge
+  - Animal Imagery
+  - Sight / Blindness
+***** Military Ranks (in order of importance)
+1. General - Othello
+2. Lieutenant - Cassio - Means "place holder" - /ends up being ironic/
+3. Ancient - Iago - Flag bearer on battlefield, this person had to be brave, courageous and loyal - /which also ends up being ironic in the end/
+***** Some Terms for Consideration
+- Moor - in Shakespeare's time meant "dark skinned person" regardless of descent. Not necessarily a negative or derogatory term
+- Ottoman / Ottomites - "Turks"
+- Gentry - People of high status
+***** Some Characters
+- Othello
+  - General in the Venetian military
+  - a Christian from Africa - could have been a minority, or a convert - never really explained
+- Cassio
+  - Comes from Florence (people from Florence are known for being gentlemen)
+  - Thus, he's clearly a gentleman
+  - Educated arithmetician and strategist
+  - Fine manners
+  - promoted to Othello's "right-hand man"
+- Iago
+  - Appears to be /not/ of the gentry class
+  - Sarcastic about Cassio's education and manners
+  - Just recently received a promotion in the army
+- Roderigo
+  - Gentleman, rich, sends gift to Desdemona
+  - Like Desdemona at first and enlists Iago's help to woo her
+- Desdemona
+  - A lady
+  - Member of the gentry from Venice
+  - Her father is a senator, which automatically means he would be of the gentry or nobility
+- Emilia
+  - Not a member of the gentry
+  - Desdemona's personal attendant
+  - Married to Iago
+- Brabantio
+  - Duke, in charge of military / Venice
+  - Desdemona's father
+  - He's in favour of Othello in service in the Military but not to marry his daughter
+**** Definitions 
+- Ostensibly - Seemingly, apparently, on the surface
+- Malignancy - The state of being malignant - Disposed to do evil
+- Incommensurate - Out of proportion
+- Literary Foil - A character who contrasts with another character (usually the protagonist) in order to highlight particular qualities of the other character.
+- Infidelity - An act of sexual unfaithfulness
+- Marginalized - Subject to marginalization - to relegate something to a lower or outer limit or edge, as in social standing.
 *** Novels
 **** Frankenstein (Novel Study)
 **** One Flew Over the Cuckoos Nest (ISU)
