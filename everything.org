@@ -726,45 +726,157 @@ plot -9.892
 
 1) Add 40km/h [NE] + 10km/h [W]
 *** Projectile Motion
- 1. A punter in a football game kicks a ball from the goal line at 60.0\deg from the horizontal at 25.0m/s
+**** A punter in a football game kicks a ball from the goal line at 60.0\deg from the horizontal at 25.0m/s
  
-Convention: \uparrow \rightarrow +
+Convention: \uparrow \rightarrow +\\
 
- | X             | Y                          |
- |---------------+----------------------------|
- | V_{1x} = 12.5 | V_{1y} = 21.6              |
- | V_{2x} = 12.5 | V_{2y} = 0 (at max height) |
- | d_x = 55      | d_y = 23.8                 |
- | a_x = 0       | a_y = -9.8m/s[\downarrow]  |
- | t = 4.4       | t = 2.2                    |
-**** Component Method
-     |    X |    Y |
-     |------+------|
-     | 12.5 | 21.6 |
+ | X                 | Y                             |
+ |-------------------+-------------------------------|
+ | V_{1x} = 12.5 m/s | V_{1y} = 21.6 m/s             |
+ | V_{2x} = 12.5 m/s | V_{2y} = 0 m/s(at max height) |
+ | d_x = 55 m        | d_y = 23.8 m                  |
+ | a_x = 0 m/s       | a_y = -9.8m/s[\downarrow]     |
+ | t = 4.4 s         | t = 2.2 s                     |
+***** Component Method
+      |    X |    Y |
+      |------+------|
+      | 12.5 | 21.6 |
 
-\[\cos \theta = \frac{A}{H}\]
-\[\cos 60 = \frac{X}{25}\]
-\[25 \cos 60 = X\]
-\[\sin \theta = \frac{O}{H}\]
-\[\sin 60 = \frac{Y}{25}\]
-\[25 \sin 60 = Y\]
-**** Solving using Big 5
-\[V_{2y}^2 = V_{1y}^2 + 2_{ay}d_y\]
-\[\frac{0 - 21.6^2}{2(-9.8)} = d\]
-\[d = 23.8\]
+ \noindent \(\cos \theta = \frac{A}{H}\)\\
+ \(\cos 60 = \frac{X}{25}\)\\
+ \(25 \cos 60 = X\)\\
+ \(\sin \theta = \frac{O}{H}\)\\
+ \(\sin 60 = \frac{Y}{25}\)\\
+ \(25 \sin 60 = Y\)
+***** Solving using Big 5
+ \noindent \(V_{2y}^2 = V_{1y}^2 + 2_{ay}d_y\)\\
+ \(\frac{0 - 21.6^2}{2(-9.8)} = d\)\\
+ \(d = 23.8\)
 
-\[V_{2y} = V_{1y} + a_yt\]
-\[t = \frac{0 - 21.6}{-9.8}\]
-\[t = 2.2 \] 
-**** Using Symmetry
-\[t_x = 2t_y\]
-\[= 4.4 \]
+ \noindent \(V_{2y} = V_{1y} + a_yt\)\\
+ \(t = \frac{0 - 21.6}{-9.8}\)\\
+ \(t = 2.2 \) 
+***** Using Symmetry
+ \noindent \(t_x = 2t_y\)\\
+ \(= 4.4 \)
 
-\[d_x = V_xt\]
-\[=12.5 \cdot 4.4\]
-\[= 55\]
+ \noindent \(d_x = V_xt\)\\
+ \(= 12.5 \cdot 4.4\)\\
+ \(= 55\)
 
+**** An object is punted at 25.0m/s [40.0 \deg N of E] on G's home planet. What is the range of the object on level ground? (Use g = 18.0m/s^2)
+ 
+ Convention: \uparrow \rightarrow +\\
 
+  | X                 | Y                              |
+  |-------------------+--------------------------------|
+  | V_{1x} = 19.2 m/s | V_{1y} = 16 m/s                |
+  | V_{2x} = 19.2 m/s | V_{2y} = 0 m/s (at max height) |
+  | d_x = 17.28 m     | d_y = 7.1 m                    |
+  | a_x = 0 m/s       | a_y = -18m/s[\downarrow]       |
+  | t = 1.8 s         | t = 0.9 s                      |
+***** Component Method
+      |    X |  Y |
+      |------+----|
+      | 19.2 | 16 |
+
+ \noindent \(\cos \theta = \frac{A}{H}\)\\
+ \(\cos 40 = \frac{X}{25}\)\\
+ \(25 \cos 40 = X\)\\
+ \(\sin \theta = \frac{O}{H}\)\\
+ \(\sin 40 = \frac{Y}{25}\)\\
+ \(25 \sin 40 = Y\)
+***** Solving using Big 5
+ \noindent \(V_{2y}^2 = V_{1y}^2 + 2_{ay}d_y\)\\
+ \(\frac{0 - 16^2}{2(-18)} = d\)\\
+ \(d = 7.1\)
+
+ \noindent \(V_{2y} = V_{1y} + a_yt\)\\
+ \(t = \frac{0 - 16}{-18}\)\\
+ \(t = 0.9  \) 
+***** Using Symmetry
+ \noindent \(t_x = 2t_y\)\\
+ \(= 1.8 \)
+
+ \noindent \(d_x = V_xt\)\\
+ \(= 19.2 \cdot 1.8\)\\
+ \(= 34.6\)
+
+**** An elastic loaded balloon launcher fires balloons at an angle of [38.0 \deg N of E] from the surface of the ground. If the initial velocity is 25.0 m/s, find how far away the balloons are from the launcher when they hit the level ground again.
+ 
+ Convention: \uparrow \rightarrow +\\
+
+  | X                 | Y                              |
+  |-------------------+--------------------------------|
+  | V_{1x} = 19.7 m/s | V_{1y} = 15.4 m/s              |
+  | V_{2x} = 19.7 m/s | V_{2y} = 0 m/s (at max height) |
+  | d_x = 63.04 m     | d_y = 12.1 m                   |
+  | a_x = 0 m/s       | a_y = -9.8 m/s[\downarrow]     |
+  | t = 3.2 s         | t = 1.6 s                      |
+***** Component Method
+      |    X |    Y |
+      |------+------|
+      | 19.7 | 15.4 |
+
+ \noindent \(\cos \theta = \frac{A}{H}\)\\
+ \(\cos 38 = \frac{X}{25}\)\\
+ \(25 \cos 38 = X\)\\
+ \(\sin \theta = \frac{O}{H}\)\\
+ \(\sin 38 = \frac{Y}{25}\)\\
+ \(25 \sin 38 = Y\)
+***** Solving using Big 5
+ \noindent \(V_{2y}^2 = V_{1y}^2 + 2_{ay}d_y\)\\
+ \(\frac{0 - 15.4^2}{2(-9.8)} = d\)\\
+ \(d = 12.1\)
+
+ \noindent \(V_{2y} = V_{1y} + a_yt\)\\
+ \(t = \frac{0 - 15.4}{-9.8}\)\\
+ \(t = 1.6\) 
+***** Using Symmetry
+ \noindent \(t_x = 2t_y\)\\
+ \(= 3.2 \)
+
+ \noindent \(d_x = V_xt\)\\
+ \(= 19.7 \cdot 3.2\)\\
+ \(= 63.04\)
+
+**** A football is kicked at 37.0 \deg to the horizontal at 20.0m/s from the player's hand at 1.00m from the ground. How far did the football travel before hitting the ground?
+
+Convention: \uparrow \rightarrow +\\
+
+ | X                 | Y                              |
+ |-------------------+--------------------------------|
+ | V_{1x} = 15.8 m/s | V_{1y} = 12.3 m/s              |
+ | V_{2x} = 15.8 m/s | V_{2y} = 0 m/s (at max height) |
+ | d_x = 37.92 m     | d_y = 7.7 m                    |
+ | a_x = 0 m/s       | a_y = -9.8 m/s[\downarrow]     |
+ | t = 2.4 s         | t = 1.2 s                      |
+***** Component Method
+      |    X |    Y |
+      |------+------|
+      | 15.8 | 12.3 |
+
+ \noindent \(\cos \theta = \frac{A}{H}\)\\
+ \(\cos 37 = \frac{X}{20}\)\\
+ \(20 \cos 38 = X\)\\
+ \(\sin \theta = \frac{O}{H}\)\\
+ \(\sin 37 = \frac{Y}{20}\)\\
+ \(20 \sin 38 = Y\)
+***** Solving using Big 5
+ \noindent \(V_{2y}^2 = V_{1y}^2 + 2_{ay}d_y\)\\
+ \(\frac{0 - 12.3^2}{2(-9.8)} = d\)\\
+ \(d = 7.7\)
+
+ \noindent \(V_{2y} = V_{1y} + a_yt\)\\
+ \(t = \frac{0 - 12.3}{-9.8}\)\\
+ \(t = 1.2\) 
+***** Using Symmetry
+ \noindent \(t_x = 2t_y\)\\
+ \(= 2.4 \)
+
+ \noindent \(d_x = V_xt\)\\
+ \(= 15.8 \cdot 2.4\)\\
+ \(= 37.92\)
 *** Test (Cumulative)
     DEADLINE: <2016-11-04 Fri>
 **** Motion 1D
