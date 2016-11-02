@@ -1252,14 +1252,14 @@ The amount of hydrochloric acid is constant because different amounts might infl
 *** Acetylene Lab
 <2016-11-02 Wed>
 
-| Acetylene | Air | Flame Time | Flame Location | Soot - amount, location |
-|-----------+-----+------------+----------------+-------------------------|
-|      100% |  0% |            |                |                         |
-|       75% | 25% |            |                |                         |
-|       50% | 50% |            |                |                         |
-|       25% | 75% |            |                |                         |
-|       10% | 90% |            |                |                         |
-|        5% | 95% |            |                |                         |
+| Acetylene | Air | Flame Time | Flame Location           | Soot - amount, location |
+|-----------+-----+------------+--------------------------+-------------------------|
+|      100% |  0% | 5s         | Just at the top          | A lot, entire test tube |
+|       75% | 25% | 4s         | Top and slightly down    | A lot, halfway down     |
+|       50% | 50% | 3s         | Top and halfway          | Not much, 1/4 down      |
+|       25% | 75% | 2s         | Top and all the way down | Barely any, 1/8 down    |
+|       10% | 90% | 1s         | Top and all the way down | No noticeable soot      |
+|        5% | 95% | 0.5s       | Top and all the way down | No noticeable soot      |
 
 ** English
 *** Daily Journal
