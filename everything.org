@@ -8,6 +8,9 @@
 #+LATEX_HEADER: \usepackage{expl3}
 #+LATEX_HEADER: \usepackage{chemfig}
 #+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+LATEX_HEADER: \usepackage[utf8]{inputenc}
+#+LATEX_HEADER: \usepackage[bitstream-charter]{mathdesign}
+#+LATEX_HEADER: \usepackage[T1]{fontenc}
 #+LATEX_HEADER: \usepackage{amsmath}
 #+LATEX_HEADER: \usepackage{calc}
 #+LATEX_HEADER: \usepackage{bohr}
@@ -662,7 +665,7 @@ Alison, starting from rest, accelerates at 3 m/\(s^2\) [E] until her car is trav
 
 5. Brad coasts down a long hill on his bike. He accelerates at 0.12 m/\(s^2\) for 85 s and is travelling at 12.5 m/s at the bottom of the hill. What was his initial speed?
 
-*** Picket Fence Free Fall
+*** [#B] Picket Fence Free Fall
 **** Analysis
 <2016-10-11 Tue>
 
@@ -772,7 +775,7 @@ Convention: \uparrow \rightarrow +\\
   |-------------------+--------------------------------|
   | V_{1x} = 19.2 m/s | V_{1y} = 16 m/s                |
   | V_{2x} = 19.2 m/s | V_{2y} = 0 m/s (at max height) |
-  | d_x = 17.28 m     | d_y = 7.1 m                    |
+  | d_x = 34.6 m      | d_y = 7.1 m                    |
   | a_x = 0 m/s       | a_y = -18m/s[\downarrow]       |
   | t = 1.8 s         | t = 0.9 s                      |
 ***** Component Method
@@ -1113,20 +1116,22 @@ To observe relationships between the reactivity of
 elements and their location on the periodic table
 ****** Background Information
 ******* Hydrochloric Acid
-``Hydrochloric acid is a colourless, highly pungent solution of hydrogen chloride (HCl) in water. It is a corrosive, strong mineral acid with many industrial uses. Hydrochloric acid is found naturally in gastric acid. When it reacts with an organic base it forms a hydrochloride salt.''\cite{wikica}
+``Hydrochloric acid is a colourless, highly pungent solution of hydrogen chloride (HCl) in water. It is a corrosive, strong mineral acid with many industrial uses. Hydrochloric acid is found naturally in gastric acid. When it reacts with an organic base it forms a hydrochloride salt.''
 ******* Zinc
-``Zinc is a chemical element with symbol Zn and atomic number 30. It is the first element in group 12 of the periodic table. In some respects zinc is chemically similar to magnesium: both elements exhibit only one normal oxidation state (\+2), and the Zn2+ and Mg2+ ions are of similar size. Zinc is the 24th most abundant element in Earth's crust and has five stable isotopes. The most common zinc ore is sphalerite (zinc blende), a zinc sulfide mineral. The largest workable lodes are in Australia, Asia, and the United States. Zinc is refined by froth flotation of the ore, roasting, and final extraction using electricity (electrowinning).'' \cite{wikizn}
+``Zinc is a chemical element with symbol Zn and atomic number 30. It is the first element in group 12 of the periodic table. In some respects zinc is chemically similar to magnesium: both elements exhibit only one normal oxidation state (\+2), and the Zn2+ and Mg2+ ions are of similar size. Zinc is the 24th most abundant element in Earth's crust and has five stable isotopes. The most common zinc ore is sphalerite (zinc blende), a zinc sulfide mineral. The largest workable lodes are in Australia, Asia, and the United States. Zinc is refined by froth flotation of the ore, roasting, and final extraction using electricity (electrowinning).'' 
 ******* Iron 
-``Iron is a chemical element with symbol Fe (from Latin: ferrum) and atomic number 26. It is a metal in the first transition series. It is by mass the most common element on Earth, forming much of Earth's outer and inner core. It is the fourth most common element in the Earth's crust. Its abundance in rocky planets like Earth is due to its abundant production by fusion in high-mass stars, where it is the last element to be produced with release of energy before the violent collapse of a supernova, which scatters this precursor radionuclide of stable iron into space.'' \cite{wikife}
+``Iron is a chemical element with symbol Fe (from Latin: ferrum) and atomic number 26. It is a metal in the first transition series. It is by mass the most common element on Earth, forming much of Earth's outer and inner core. It is the fourth most common element in the Earth's crust. Its abundance in rocky planets like Earth is due to its abundant production by fusion in high-mass stars, where it is the last element to be produced with release of energy before the violent collapse of a supernova, which scatters this precursor radionuclide of stable iron into space.'' 
 ******* Magnesium
 Magnesium is a chemical element with symbol Mg and atomic number 12. It is a shiny gray solid which bears a close physical resemblance to the other five elements in the second column (Group 2, or alkaline earth metals) of the periodic table: all Group 2 elements have the same electron configuration in the outer electron shell and a similar crystal structure.
-Magnesium is the ninth most abundant element in the universe. It is produced in large, aging stars from the sequential addition of three helium nuclei to a carbon nucleus. When such stars explode as supernovas, much of the magnesium is expelled into the interstellar medium where it may recycle into new star systems. Magnesium is the eighth most abundant element in the Earth's crust and the fourth most common element in the Earth (after iron, oxygen and silicon), making up 13% of the planet's mass and a large fraction of the planet's mantle. It is the third most abundant element dissolved in seawater, after sodium and chlorine. \cite{wikimg}
+Magnesium is the ninth most abundant element in the universe. It is produced in large, aging stars from the sequential addition of three helium nuclei to a carbon nucleus. When such stars explode as supernovas, much of the magnesium is expelled into the interstellar medium where it may recycle into new star systems. Magnesium is the eighth most abundant element in the Earth's crust and the fourth most common element in the Earth (after iron, oxygen and silicon), making up 13% of the planet's mass and a large fraction of the planet's mantle. It is the third most abundant element dissolved in seawater, after sodium and chlorine. 
 ******* Aluminum 
-Aluminium or aluminum (in North American English) is a chemical element in the boron group with symbol Al and atomic number 13. It is a silvery-white, soft, nonmagnetic, ductile metal. Aluminium is the third most abundant element in the Earth's crust (after oxygen and silicon) and its most abundant metal. Aluminium makes up about 8% of the crust by mass, though it is less common in the mantle below. Aluminium metal is so chemically reactive that native specimens are rare and limited to extreme reducing environments. Instead, it is found combined in over 270 different minerals. The chief ore of aluminium is bauxite.\cite{wikial}
+Aluminium or aluminum (in North American English) is a chemical element in the boron group with symbol Al and atomic number 13. It is a silvery-white, soft, nonmagnetic, ductile metal. Aluminium is the third most abundant element in the Earth's crust (after oxygen and silicon) and its most abundant metal. Aluminium makes up about 8% of the crust by mass, though it is less common in the mantle below. Aluminium metal is so chemically reactive that native specimens are rare and limited to extreme reducing environments. Instead, it is found combined in over 270 different minerals. The chief ore of aluminium is bauxite.
 ****** Variables and Constants
        | Variables          | Constants                         |
        |--------------------+-----------------------------------|
        | Gas Produced (Y/N) | Amount of hydrochloric acid (5mL) |
+
+
 The amount of hydrochloric acid is constant because different amounts might influence whether or not gas is produced.
 ****** Equipment and Supplies
 - 4 test tubes
@@ -1139,8 +1144,6 @@ The amount of hydrochloric acid is constant because different amounts might infl
 - Wooden splint
 - Bunsen burner
 - Flint lighter
-****** Procedure
-First we *
 ****** Safety Considerations
        - Getting hydrochloric acid on skin
        - Burning skin / clothes with bunsen burner
@@ -1158,10 +1161,6 @@ First we *
 
 ******* Elements Ranked by Reactiveness (Most --> Least)
       Zinc (30) --> Magnesium (12) --> Aluminum (13) --> Iron (26)
-****** Conclusion 
-
-\bibliographystyle{plain}
-\bibliography{bib}
 *** TODO Pg 69 2, 4
 *** Exceptions to the Octet Rule
 
@@ -1222,7 +1221,6 @@ First we *
 **** Word Equations
 
 *** Flame Lab
-<2016-10-29 Sat>
 
 | Element    | Flame Colour |
 |------------+--------------|
@@ -1240,6 +1238,28 @@ First we *
 3. Lithium, Strontium, Potassium, Calcium, Barium, Copper(II)
 
 4. Different chemicals burning
+
+*** Hydrocarbon
+\begin{equation}
+
+\ce{C4H10(l) + 13/2O2(g) -> 4CO2(g) + 5H2O(g)}
+
+\ce{C6H10(l) + 19/2O2 -> 6CO2 + 7H2O}
+
+\ce{C6H14 + 8O2 -> 3CO + 3CO2 + 7H2O} 
+\end{equation}
+
+*** Acetylene Lab
+<2016-11-02 Wed>
+
+| Acetylene | Air | Flame Time | Flame Location | Soot - amount, location |
+|-----------+-----+------------+----------------+-------------------------|
+|      100% |  0% |            |                |                         |
+|       75% | 25% |            |                |                         |
+|       50% | 50% |            |                |                         |
+|       25% | 75% |            |                |                         |
+|       10% | 90% |            |                |                         |
+|        5% | 95% |            |                |                         |
 
 ** English
 *** Daily Journal
