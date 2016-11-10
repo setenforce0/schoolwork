@@ -1,6 +1,15 @@
 #+TITLE: School Work 
 #+OPTIONS: toc:nil num:nil 
 #+BIBLIOGRAPHY: bib apalike
+#+LATEX_HEADER: \usepackage[usenames,dvipsnames]{pstricks}
+#+LATEX_HEADER: \usepackage{epsfig}
+#+LATEX_HEADER: \usepackage{pst-grad}
+#+LATEX_HEADER: \usepackage{pst-plot}
+#+LATEX_HEADER: \usepackage[space]{grffile} 
+#+LATEX_HEADER: \usepackage{etoolbox}
+#+LATEX_HEADER: \makeatletter
+#+LATEX_HEADER: \patchcmd\Gread@eps{\@inputcheck#1 }{\@inputcheck"#1"\relax}{}{}
+#+LATEX_HEADER: \makeatother
 #+LATEX_HEADER: \usepackage{pdflscape}
 #+LATEX_HEADER: \usepackage[version=4]{mhchem}
 #+LATEX_HEADER: \usepackage{rotating}
@@ -904,6 +913,26 @@ Solving Triangle or Component Method
 | V_x = H | V_{1y} = 0 |
 ****** Travels up to max height
 ****** Starts and ends at the same level
+*** Unit 1 Self-Quiz
+
+1. The term /kinematics/ is best described as - c, the study of how objects move
+2. Suppose you attach a string to the beginning of a winding path and walk to the end. There, you pull the string straight and measure its length. What would you be measuring? - a, displacement
+3. You walk 27m[W] and 12m[E]. What is the total distance you have travelled? - b, 15m
+4. Which of the following involves only a scalar? - b, A truck accelerates at 8m/s^2.
+5. A cyclist travels 36km in 3.0h. What is her speed in metres per second? - d, 12m/s
+6. For a straight line on a position-time graph, the rise refers to the change in which quantity? - d, position
+7. The slope of a position-time graph measures which of the following quantities? - c, average quantity
+8. For the position-time graph of an object moving in one dimension, which of the following properties would imply that the object has motion with non-uniform velocity?b, the graph is a curve.
+9. An object accelerates at a rate of 1.2m/s^2[W] for 2.0s and has an initial velocity of 5.0m/s[E]. What is its final velocity? - d, 7.4m/s[W]
+10. If you were to find the area under a velocity-time graph, which of the following quantities would you be calculating? a, displacement
+11. Which of the following directions is equivalent to [E 31.7 /deg S]? - b, [S 58.3 /deg S]
+12. How long would a distance of 625m be if represented on a scale diagram with a scale of 1 cm : 125 m? - a, 5cm
+13. If you are standing next to a wall that runs east and west, and move a displacement of \delta \vec{d} = 25 m [E 63 /deg S], approximately how far away from the wall would you be?
+14. 
+*** Relative Velocity Pg 93-95 #37, 51
+*** Adding Vector Quantities Pg 102, 105 #49, 46, 63, 67, Pg 92-95 #36, 43, 53
+*** Projectile Motion Pg 102-105, 54, Pg 93 #38, 39, 41, 40, 52, 56, 57
+*** Design and Perform Lab
 ** Chemistry
 *** Using the Periodic Table Activity
     <2016-09-09 Fri>
@@ -1261,6 +1290,78 @@ The amount of hydrochloric acid is constant because different amounts might infl
 |       10% | 90% | 1s         | Top and all the way down | No noticeable soot      |
 |        5% | 95% | 0.5s       | Top and all the way down | No noticeable soot      |
 
+\ce{C2H2 + 5/2O2 -> 2CO2 + H20}
+
+*** TODO P. 211 #1, 3-6
+*** TODO P. 235 #1-18
+
+   1. Which is the formula of the hydrocarbon shown in the chemical equation below?
+      
+   \ce{2CxHy(g) + 9O2(g) -> 6CO2(g) + 6H2O(g)}
+
+   d) \ce{C3H6(g)} 
+   
+   2. If a car's exhaust system has a hole that allows exhaust gases to leak into the passenger compartment, the bigger danger when the car is running would be:
+      
+   b) Carbon monoxide
+
+   3. Which would be present in carbonated pop?
+      
+   b) \ce{CO3(aq)}
+   
+   4. Which shows the general equation for a neutralization reaction that involves a hydroxide compound?
+      
+   c) acid + base -> water + ionic compound
+
+   4. During the beginning of an ore, a detergent-like ionic compound is used to concentrate the part of the ore containing the metal. What is this process called?
+
+   b) Flotation
+
+*** TODO P. 236 #1-50
+*** Unit 3: Chemical Quantities
+    The Mole
+
+    1 mole = 6.02 \times 10^{23} entities (Avogadro's Number)
+
+    602000000000000000000000
+
+    1 mole is a case of chemical things.
+
+    - Green Pea Analogy
+      - Chemical entities are small.
+
+    The mass of 1 mole of hydrogen atoms is called the molar mass, and is the mass number on the periodic table in grams.
+
+    M = molar mass = g / mol
+
+    M of H = 1.0079 g / mol
+
+    M_s = 32.06 g / mol
+
+    M_{H2O} H: 2 \cdot 1.0079 g / mol + 1 \cdot 15.9994 g / mol = 18.0152 g / mol 
+
+    1 mol \ce{H2O} = 6.02 \times 10_{23} molecules = 18.0152 g / mol
+
+    M_{\ce{Al2(SO4)3}} = 342.13588 g / mol
+
+    M_{\ce{HC2H3O2}} = 
+   
+    What is the mass of 3 mol of \ce{HC2H3O2}? 
+
+    Mass = m in g
+   
+    3 mol = n
+  
+    \(m = nM\)
+
+    \(= 3mol \cdot 60.052 g/mol\)
+
+    \(= 180.156\)
+*** Kadin's Formula Sheet
+   1 mol = 6.02 \times 10^{23} entities
+   m = nM
+*** TODO p. 275 #1
+    DEADLINE: <2016-11-11 Fri>
 ** English
 *** Daily Journal
 
@@ -1990,6 +2091,31 @@ Metonymy is a figure of speech in which a thing or concept is called not by its 
 - Literary Foil - A character who contrasts with another character (usually the protagonist) in order to highlight particular qualities of the other character.
 - Infidelity - An act of sexual unfaithfulness
 - Marginalized - Subject to marginalization - to relegate something to a lower or outer limit or edge, as in social standing.
+**** Act I Summary 
+     <2016-11-03 Thu>
+
+Othello is married Desdemona, Iago and Roderigo. tell Brabantio and he accuses Othello of using witchcraft on his daughter, Iago leaves before Brabantio comes out of the house so that Othello doesn't know he doesn't like him. They go to session before the duke, Othello gives speech about how they came to love each other. Issues in Cyprus forces Othello to go to battle, and Desdemona wishes to go with him. Trusts his wife to Iago. Roderigo wants to kill himself but Iago convinces him not to, and to give him more money. 
+**** Act II Scene I Summary
+<2016-11-03 Thu>
+
+Othello and company are caught in a storm at sea. Othello and Cassio get divided from each other due to the storm. Iago, Roderigo and Desdemona joke around trying to distract her from the fact that her husband is in danger from the storm, and Cassio's kindness to Desdemona plays perfectly into Iago's plan. Iago tells Roderigo to make Cassio angry to get him fired from his job as Lieutenant, so Iago can replace him. Turks drown at sea during storm, Othello and company have a party on Cyprus. 
+**** Act II Scene III Summary
+     <2016-11-06 Sun>
+
+     Cassio starts his watch, Iago persuades Cassio to have some more liquor to drink. Iago then tells Roderigo to go after him, and Roderigo does what Iago says and pisses off Cassio. Cassio chases Roderigo and tries to kill him until Montano stops him, then Cassio starts fighting with Montano. Iago tells Roderigo to call a mutiny, and Othello wakes up and stops the fight. Iago says Cassio started it, and Othello tells Cassio that he is no longer one of his officers. Iago tells Cassio to appeal to Desdemona for his position back, and plans to use Desdemona's nature against her and tell Othello that she wants him to be officer because she is attracted to him.
+**** Othello Final Test Review
+     A/ Matching                   10 mks\\
+     B/ Fill in the Blanks & T/F    6 mks\\
+     C/ Iago's Web                  6 mks\\
+     D/ Quotation Identification    8 mks\\
+     E/ Analyze Soliloquy           5 mks\\
+          a) who & when\\
+          b) plot, theme, character development, etc...\\
+          c) literary devices and effect\\
+     F/ Short Answer (2)           15 mks\\
+          a) treatment of women\\
+          b) tragic hero\\
+
 *** Novels
 **** Frankenstein (Novel Study)
 **** One Flew Over the Cuckoos Nest (ISU)
@@ -1997,6 +2123,8 @@ Metonymy is a figure of speech in which a thing or concept is called not by its 
 ***** TODO Cuckoos Nest Essay
       DEADLINE: <2016-12-20 Tue>      
       
+      Prove that Cuckoos Nest is an allegory
+
 * To do list
 ** DONE File Andson Documents
 ** TODO Get Boogieboard Sync
